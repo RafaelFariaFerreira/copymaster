@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: email-sequencia-lancamento
+expected_outcome: |
+  Sequência completa de e-mails de lançamento em PT-BR para lista própria, com calendário, assunto e pré-cabeçalho em cada e-mail, prova só do briefing e urgência ligada ao prazo real de fechamento.

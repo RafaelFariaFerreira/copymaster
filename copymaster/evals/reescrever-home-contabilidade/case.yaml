@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: reescrever-home-contabilidade
+expected_outcome: |
+  Diagnóstico do texto atual e home reescrita em PT-BR, específica para médicos, sem marketês, com CTA de agendar conversa de 30 min, usando as provas reais do briefing com as ressalvas e explicando o que mudou.

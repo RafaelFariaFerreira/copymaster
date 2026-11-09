@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: saas-estoque-busca-google
+expected_outcome: |
+  Landing page completa em PT-BR para um SaaS B2B com tráfego de busca, usando só as estatísticas do briefing, com seção de comparação com as alternativas, como funciona, CTA de trial e preço ancorado.

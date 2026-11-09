@@ -1,0 +1,47 @@
+# --- Material de origem protegido por direitos autorais ---
+# A skill traz notas próprias (paráfrases) sobre os livros. Os livros em si,
+# e qualquer conversão deles para texto, nunca entram no repositório.
+*.pdf
+*.epub
+*.mobi
+*.azw
+*.azw3
+/livros/
+/books/
+/fontes/
+
+# --- Resultados de testes locais ---
+# skill-creator grava as rodadas em <skill>-workspace/; o `claude plugin eval`, em evals/results/.
+*-workspace/
+**/evals/results/
+
+# --- Pacotes gerados (anexe em Releases, não no código) ---
+*.skill
+*.zip
+
+# --- Segredos ---
+.env
+.env.*
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# --- Sistema e editores ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
+
+# --- Base de conhecimento local da skill ---
+# Link para os livros completos e o grafo do graphify; fica só na sua máquina.
+knowledge-base
+graphify-out/
+
+# --- Cache das fontes usadas por docs/gerar_imagens.py ---
+docs/.fontes/
