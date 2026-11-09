@@ -78,7 +78,7 @@ Nos apps que aceitam skills personalizadas, compacte a pasta `copymaster/` em um
 
 ### Base de conhecimento local (opcional)
 
-As notas em `references/` resumem os livros. Se você tem os livros em Markdown, pode ligá-los à skill para ela consultar o trecho original quando precisar ir além do resumo:
+A skill funciona sem ela: os arquivos de `references/` já trazem o método completo de cada livro. Se você tem os livros em Markdown, pode ligá-los à skill para ela conferir um ponto no trecho original:
 
 ```bash
 ln -s "/caminho/da/sua/base" copymaster/knowledge-base
@@ -104,7 +104,7 @@ Quanto mais o pedido disser sobre o produto, o público, o canal, a oferta e as 
 
 ## Estrutura
 
-![O SKILL.md é lido sempre; dele sai o guia do formato pedido e, conforme a etapa, as notas dos livros. A base de conhecimento local é opcional e fica fora do repositório.](docs/arquitetura.svg)
+![O SKILL.md é lido sempre; dele sai o guia do formato pedido e, conforme a etapa, o método de cada livro em references. A base de conhecimento local é opcional e fica fora do repositório.](docs/arquitetura.svg)
 
 ```
 copymaster/
@@ -118,15 +118,16 @@ copymaster/
 │   ├── vsl.md
 │   ├── artigo.md
 │   └── advertorial.md
-├── references/           # notas sobre cada livro, lidas sob demanda
-│   ├── great-leads.md                              # os 6 tipos de abertura e a Regra do Um
-│   ├── schwartz-1-estrategia.md                    # desejo, consciência, sofisticação, 38 formas de headline
-│   ├── schwartz-2-desejo-identificacao-crenca.md   # benefícios, persona, ordem dos blocos
-│   ├── schwartz-3-objecoes-prova-acabamento.md     # objeções, mecanismo, comparação, prova, camuflagem
-│   ├── hormozi-ofertas.md                          # oferta grátis, com desconto ou premium; atrito
-│   ├── sugarman-adweek-handbook.md                 # escorregador, sementes de curiosidade, gatilhos psicológicos
-│   ├── bly-copywriters-handbook.md                 # checklists, sequência de venda, web, e-mail, B2B
-│   └── smart-brevity.md                            # texto enxuto e escaneável, palavras fortes em português
+├── references/           # o método, organizado por tema; lido sob demanda
+│   ├── aberturas.md          # os 6 tipos de abertura, a Regra do Um, o lead em cada formato
+│   ├── estrategia.md         # desejo, consciência, sofisticação, ponto de entrada, verbalização
+│   ├── corpo-do-texto.md     # crença, benefícios, mecanismo, objeções, prova, camuflagem
+│   ├── leitura-e-gatilhos.md # escorregador, sementes de curiosidade, os 31 gatilhos, fechamento
+│   ├── aplicacao-por-meio.md # voz, objeções, prova e adaptação a outros meios
+│   ├── fundamentos.md        # briefing, comprador, argumento, títulos e 4 U's, carta, oferta
+│   ├── meios-digitais.md     # site, SEO, landing page, e-mail, anúncios online, vídeo, conteúdo
+│   ├── brevidade.md          # texto enxuto e escaneável, palavras fortes em português
+│   └── ofertas.md            # oferta premium, grátis ou com desconto; atrito
 ├── scripts/kb_lookup.py  # busca na base de conhecimento local (opcional)
 └── evals/                # casos de teste (formato do `claude plugin eval`)
 ```
@@ -166,7 +167,7 @@ A última rodada medida cobriu só as landing pages (3 casos, 1 execução por c
 
 ## De onde vem o método
 
-As notas em `references/` e os guias em `formatos/` são resumos e paráfrases originais, em português, das ideias destes livros, com citações curtas quando a formulação exata importa (principalmente headlines clássicas de anúncios). O que os livros não cobrem (detalhes atuais de LinkedIn, WhatsApp e vídeo curto) vem marcado como prática de mercado. Nada disso substitui os livros, e este projeto não tem relação com os autores nem com as editoras. Se a skill for útil para você, leia os originais:
+Os arquivos de `references/` transformam o método de cada livro em instruções para o agente, escritas do zero em português: não reproduzem trechos dos livros nem os exemplos deles (anúncios, headlines, casos), e os exemplos que aparecem foram criados para a skill e vêm marcados como ilustrativos. Os guias em `formatos/` aplicam esse método a cada peça. O que os livros não cobrem (detalhes atuais de LinkedIn, WhatsApp e vídeo curto) vem marcado como prática de mercado. Nada disso substitui os livros, e este projeto não tem relação com os autores nem com as editoras. Se a skill for útil para você, leia os originais:
 
 - Eugene M. Schwartz, *Breakthrough Advertising* (1966): desejo de massa, níveis de consciência, sofisticação de mercado.
 - Michael Masterson e John Forde, *Great Leads: The Six Easiest Ways to Start Any Sales Message* (2011): os seis tipos de lead e a Regra do Um.

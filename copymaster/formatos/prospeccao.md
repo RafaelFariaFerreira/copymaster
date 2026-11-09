@@ -9,13 +9,13 @@ Mensagem para quem **não se inscreveu nem pediu contato**, quase sempre B2B (um
 - **LinkedIn:** o convite com nota, a primeira mensagem depois do aceite, os follow-ups e o InMail (que segue as regras do cold mail).
 - **WhatsApp:** a mensagem para um número comercial, de preferência só depois de uma permissão (§4, §7).
 - **Cadência multicanal:** os três combinados, com um calendário só.
-- **Pitch para parceiro, evento ou veículo** (a "carta de proposta" a um editor, de Bly): mesmas regras.
+- **Pitch para parceiro, evento ou veículo** (a "carta de proposta" a um editor): mesmas regras.
 
 Prospecção fria de pessoa física (B2C) não é tratada aqui: no Brasil, o risco legal e o de bloqueio são altos. Para esse público, sugira anúncio + página de captura e e-mail para quem se inscrever (`formatos/landing-page.md`, `formatos/email.md`).
 
 ## 2. Briefing: o que mais perguntar
 
-- **Quem, exatamente:** cargo, tamanho e setor da empresa, região; e quem decide, quem influencia e quem atende a mensagem. Em B2B, várias pessoas decidem *(Bly)*; num número público, quem responde costuma ser a recepção.
+- **Quem, exatamente:** cargo, tamanho e setor da empresa, região; e quem decide, quem influencia e quem atende a mensagem. Em B2B, várias pessoas decidem; num número público, quem responde costuma ser a recepção.
 - **De onde vieram os contatos** (LinkedIn, Google Maps, site da empresa, evento, indicação, lista comprada). Isso decide o que dizer sobre a origem e se o canal pode ser usado (§7).
 - **Que gatilho existe por contato:** dá para pesquisar cada empresa, ou a peça será um modelo com campos a preencher?
 - **Prova para este segmento:** clientes parecidos, um número com a ressalva que veio com ele, um nome que o público reconhece e que pode ser citado.
@@ -25,25 +25,25 @@ Prospecção fria de pessoa física (B2C) não é tratada aqui: no Brasil, o ris
 
 ## 3. Como o diagnóstico e o lead mudam aqui
 
-- **O leitor é inconsciente de você e cético por padrão.** Ele não pediu a mensagem (SKILL.md §2). A "pergunta simples" de Great Leads (o que ele já sabe?) tem resposta curta: sobre você, nada. Na melhor hipótese, ele é consciente do problema. Por isso nunca abra com Oferta nem com a apresentação da empresa: abra por ele.
+- **O leitor é inconsciente de você e cético por padrão.** Ele não pediu a mensagem (SKILL.md §2). A "pergunta simples" (o que ele já sabe?) tem resposta curta: sobre você, nada. Na melhor hipótese, ele é consciente do problema. Por isso nunca abra com Oferta nem com a apresentação da empresa: abra por ele.
 - **Relevância primeiro.** A primeira frase diz por que você escreve para *esta* pessoa, agora. Tipos de gatilho *(prática de mercado)*: algo que a empresa fez (abriu unidade, está contratando, lançou serviço); algo que a pessoa publicou ou disse; uma mudança no setor ou numa regra que a afeta; uma conexão ou um cliente em comum; a origem honesta do contato ("achei a clínica no Google Maps"). A falta de um gatilho é sinal de lista ruim, não de copy ruim.
-- **A observação se liga ao objetivo do negócio dele.** Bly conta que mais de 90% dos conselhos não solicitados sobre o site dele erravam o alvo: ofereciam mais tráfego a quem não queria tráfego, sem saber para que o site servia nem que números ele acompanhava. Não afirme o que você não sabe (as métricas, a dor); pergunte.
+- **A observação se liga ao objetivo do negócio dele.** Conselho não solicitado quase sempre erra o alvo: oferece mais tráfego a quem não quer tráfego, sem saber para que o site serve nem que números o dono acompanha. Não afirme o que você não sabe (as métricas, a dor); pergunte.
 - **A dor entra como pergunta ou condição.** Você não sabe se ele tem o problema, então a perda afirmada não vale para todos os leitores (SKILL.md §3, limites). ex.: "vocês perdem 20% das consultas com faltas" (inventado, e talvez falso) → "faltas ainda abrem buracos na agenda de vocês?".
-- **Lead:** Problema-Solução ou uma Proclamação curta presa à observação; a História cabe em uma frase sobre um cliente parecido. A virada para o que você faz acontece na segunda ou na terceira frase: num texto de 100 palavras, o indireto que demora não volta ao produto *(Great Leads, riscos do indireto)*.
-- **Sofisticação:** quem decide recebe a mesma promessa toda semana ("ajudo empresas como a sua a crescer"). Trate como estágio 5: o leitor precisa se reconhecer (na observação específica sobre ele) antes de qualquer promessa, e uma prova concreta faz o resto; a promessa fica pequena e fácil de acreditar *(Schwartz; Bly, promessa secundária)*.
-- **Oferta de entrada = o pedido pequeno.** Uma resposta ou uma conversa curta, nunca a venda nem o preço *(SKILL.md §2)*. Mercado frio pede um motivo para vir até você, uma resposta a "o que eu ganho com isso" *(Hormozi)*; dê algo de valor em troca da resposta: um diagnóstico, uma comparação com o setor, um modelo *(Bly)*. E mande menos do que tem: o consultor de Bly envia pouco material de propósito, para deixar perguntas que só a conversa responde.
-- **Garantia = o que não vai acontecer:** sem compromisso, sem proposta empurrada, sem ligação surpresa *(Bly; SKILL.md §5)*.
+- **Lead:** Problema-Solução ou uma Proclamação curta presa à observação; a História cabe em uma frase sobre um cliente parecido. A virada para o que você faz acontece na segunda ou na terceira frase: num texto de 100 palavras, o indireto que demora não volta ao produto.
+- **Sofisticação:** quem decide recebe a mesma promessa toda semana ("ajudo empresas como a sua a crescer"). Trate como estágio 5: o leitor precisa se reconhecer (na observação específica sobre ele) antes de qualquer promessa, e uma prova concreta faz o resto; a promessa fica pequena e fácil de acreditar.
+- **Oferta de entrada = o pedido pequeno.** Uma resposta ou uma conversa curta, nunca a venda nem o preço *(SKILL.md §2)*. Mercado frio pede um motivo para vir até você, uma resposta a "o que eu ganho com isso"; dê algo de valor em troca da resposta: um diagnóstico, uma comparação com o setor, um modelo. E mande menos do que tem: envie pouco material de propósito, para deixar perguntas que só a conversa responde.
+- **Garantia = o que não vai acontecer:** sem compromisso, sem proposta empurrada, sem ligação surpresa *(SKILL.md §5)*.
 
 ## 4. Estrutura
 
 **Cold mail, primeiro toque** (até ~120 palavras como regra de bolso, 150 no máximo; cabe numa tela de celular):
-1. **Assunto:** de 2 a 5 palavras, específico para ele, como um colega escreveria. Ou diz quem escreve, ou trata de um assunto que o interessa *(Sugarman)*. ex.: "agenda da [CLÍNICA]", "faltas na unidade Tatuapé".
+1. **Assunto:** de 2 a 5 palavras, específico para ele, como um colega escreveria. Ou diz quem escreve, ou trata de um assunto que o interessa. ex.: "agenda da [CLÍNICA]", "faltas na unidade Tatuapé".
 2. **Primeira frase:** o gatilho (por que ele, por que agora).
 3. **Segunda e terceira:** o problema provável, como pergunta ou condição, e quanto ele custa.
 4. **Quarta:** o que você faz, em uma frase, com uma prova do briefing.
 5. **Pedido pequeno:** uma pergunta fácil de responder.
 6. **Saída fácil** e assinatura completa (nome, cargo, empresa, telefone).
-7. **P.S. (opcional):** a credencial ou a origem do contato. Bly fecha a carta de proposta a um editor com a apresentação dele no P.S., para não gastar a abertura consigo.
+7. **P.S. (opcional):** a credencial ou a origem do contato. Na carta de proposta a um editor, a apresentação de quem escreve vai no P.S., para não gastar a abertura consigo.
 
 ex.: cold mail de uma consultoria de frete para lojas virtuais (~95 palavras):
 > **Assunto:** frete grátis da [LOJA]
@@ -54,7 +54,7 @@ ex.: cold mail de uma consultoria de frete para lojas virtuais (~95 palavras):
 > Se não fizer sentido, é só responder "não" que eu não escrevo de novo.
 > Carla Mendes · [EMPRESA] · [TELEFONE]
 
-**Cadência** (regra de bolso, não dado dos livros: 5 a 7 toques em 3 a 4 semanas, com intervalos que crescem):
+**Cadência** (regra de bolso, *prática de mercado*: 5 a 7 toques em 3 a 4 semanas, com intervalos que crescem):
 
 | Toque | Dia | Canal | O que acrescenta |
 |---|---|---|---|
@@ -70,8 +70,8 @@ ex.: cold mail de uma consultoria de frete para lojas virtuais (~95 palavras):
 - **Pare na hora** em que ele responder (qualquer resposta tira o contato da cadência automática), pedir para sair ou o e-mail voltar.
 - **WhatsApp entra depois de uma resposta ou de uma permissão** ("pode me chamar no WhatsApp"), não como mais um toque frio (§7).
 
-**LinkedIn** *(prática de mercado; Bly só trata do perfil e da pesquisa)*:
-- **Antes de tudo, o perfil de quem assina:** quem recebe o convite visita o perfil. Bly põe sob o nome uma frase sobre os resultados que entrega aos clientes, e números nos itens de serviço.
+**LinkedIn**:
+- **Antes de tudo, o perfil de quem assina:** quem recebe o convite visita o perfil. Ponha sob o nome uma frase sobre os resultados que entrega aos clientes, e números nos itens de serviço.
 - **Convite:** a nota é opcional; se houver, diz por que conectar (o gatilho, um interesse comum) e só isso: sem pitch, sem pedido de reunião, sem link, sem preço. O limite de caracteres e a cota mensal de notas variam por tipo de conta e mudam: confira, e trate 200 caracteres como teto seguro.
 - **Primeira mensagem depois do aceite:** curta (3 a 5 linhas), começa pelo gatilho ou por algo que ele publicou e termina numa pergunta. Nada de despejar a apresentação logo após o aceite.
 - **Follow-ups:** no máximo dois, cada um com algo novo; comentar com substância numa publicação dele aquece mais que uma terceira mensagem.
@@ -83,23 +83,23 @@ ex.: cold mail de uma consultoria de frete para lojas virtuais (~95 palavras):
 
 ## 5. Regras de redação próprias do formato
 
-- **De uma pessoa para uma pessoa.** "Eu", o nome de quem assina, a assinatura completa; nada de "Nós da X, líder em…" *(Sugarman; SKILL.md)*. Estilo B2B: claro, factual, conversacional, com expectativas realistas no lugar de promessas infladas *(Bly, citando Steve Slaunwhite)*.
-- **Diga e pare.** O Smart Brevity manda dizer o que quer e parar, e lembra que quem esconde o ponto em orações subordinadas perde a confiança do leitor. Uma diretora de comunicação citada no livro resume o que o leitor ocupado quer: saber que aquilo vai tomar só três minutos. Gente ocupada responde melhor a texto curto, e a peça que só leva a uma conversa pode ser curta *(Bly)*.
-- **Personalização que só serve para ele.** Uma frase que não daria para mandar a mais ninguém vale mais que dez campos `{empresa}`. Bly diz que a personalização compensa sobretudo com executivos de cargo alto, e que repetir o nome do leitor soa falso.
+- **De uma pessoa para uma pessoa.** "Eu", o nome de quem assina, a assinatura completa; nada de "Nós da X, líder em…". Estilo B2B: claro, factual, conversacional, com expectativas realistas no lugar de promessas infladas.
+- **Diga e pare.** Diga o que quer e pare: quem esconde o ponto em orações subordinadas perde a confiança do leitor. O leitor ocupado quer saber que aquilo vai tomar só três minutos. Gente ocupada responde melhor a texto curto, e a peça que só leva a uma conversa pode ser curta.
+- **Personalização que só serve para ele.** Uma frase que não daria para mandar a mais ninguém vale mais que dez campos `{empresa}`. A personalização compensa sobretudo com executivos de cargo alto, e repetir o nome do leitor soa falso.
 - **Um problema, um pedido** (Regra do Um, SKILL.md). O pedido é uma pergunta de resposta fácil, com opções concretas. ex.: "Vale 15 minutos na terça ou na quinta à tarde?" ou "Posso te mandar como funcionou na [CLIENTE]? São 4 linhas." "Faz sentido?" sozinho é fraco.
-- **Uma prova, curta, do briefing, com a ressalva dela.** Nada de "líder", "o melhor", "referência": troque por um fato *(Bly)*. Se o cliente citado não autorizou o nome, use o setor e a cidade ("uma clínica de [N] cadeiras em [BAIRRO]").
+- **Uma prova, curta, do briefing, com a ressalva dela.** Nada de "líder", "o melhor", "referência": troque por um fato. Se o cliente citado não autorizou o nome, use o setor e a cidade ("uma clínica de [N] cadeiras em [BAIRRO]").
 - **Identificação:** no e-mail, quem você é vai na assinatura e no P.S.; abrir com "Meu nome é… e sou…" gasta a frase mais lida. No WhatsApp é o contrário: a identificação é a primeira linha, em meia frase.
-- **Saída fácil, nas palavras de uma pessoa.** ex.: "Se não for com você, me diz quem cuida disso? E se não fizer sentido, é só responder 'não' que eu não escrevo de novo." Bly aceita até o "agora não": ofereça "me procure de novo em [MÊS]".
+- **Saída fácil, nas palavras de uma pessoa.** ex.: "Se não for com você, me diz quem cuida disso? E se não fizer sentido, é só responder 'não' que eu não escrevo de novo." Aceite até o "agora não": ofereça "me procure de novo em [MÊS]".
 - **Tom por canal:** e-mail, cordial e direto; LinkedIn, profissional e conversado; WhatsApp, mais curto e coloquial, sem gíria nem fileira de emojis. Use o tratamento do setor ("Dra. Ana" em saúde e direito, se for o costume); "Prezado" soa como ofício.
-- **Primeiro toque em texto simples:** sem imagem, sem modelo de HTML, sem anexo e com no máximo um link. Bly manda colar a proposta no corpo do e-mail, não anexá-la; anexos e links de desconhecidos também despertam desconfiança e filtros *(prática de mercado)*.
+- **Primeiro toque em texto simples:** sem imagem, sem modelo de HTML, sem anexo e com no máximo um link. Cole a proposta no corpo do e-mail, não a anexe; anexos e links de desconhecidos também despertam desconfiança e filtros *(prática de mercado)*.
 
 ## 6. Erros comuns
 
-- **"Re:" ou "Fwd:" falso, ou familiaridade inventada** ("Como conversamos…", "Lembra de mim?", "Seguindo nossa conversa"). É o equivalente do envelope que imita fatura ou documento oficial, que Bly lista entre as táticas de mala direta e que a skill não usa: abre a mensagem e mata a confiança.
+- **"Re:" ou "Fwd:" falso, ou familiaridade inventada** ("Como conversamos…", "Lembra de mim?", "Seguindo nossa conversa"). É o equivalente do envelope que imita fatura ou documento oficial, tática antiga de mala direta que a skill não usa: abre a mensagem e mata a confiança.
 - **Abrir falando de você** ("Somos a X, empresa líder em…") para quem não sabe quem você é.
 - **Pitch no convite do LinkedIn,** ou a apresentação inteira um minuto depois do aceite.
 - **PDF, apresentação, vários links ou vídeo** no primeiro toque.
-- **Conselho não solicitado que ignora o objetivo** ("seu site tem pouco tráfego", "seu Instagram está parado") *(Bly)*.
+- **Conselho não solicitado que ignora o objetivo** ("seu site tem pouco tráfego", "seu Instagram está parado").
 - **Afirmar uma dor ou um número que você não sabe** sobre a empresa dele.
 - **Pedido grande:** reunião de uma hora, demonstração completa, "posso te enviar uma proposta?", preço.
 - **Follow-up vazio** ("Subindo isso aqui", "Conseguiu ver?") e insistência depois de um "não".
@@ -165,11 +165,7 @@ Texto pronto para colar, com [GATILHO] e [NOME] onde mudam.
 - [ ] Nenhuma mensagem usa "Re:" falso ou finge uma conversa que não aconteceu?
 - [ ] Você responderia a esta mensagem se a recebesse de um desconhecido no meio de uma terça-feira cheia?
 
-## Fontes
+## Referências da skill
 
-- `references/great-leads.md` §3–5 (a pergunta simples, direto × indireto, o leitor cético); `references/bly-copywriters-handbook.md` §11 ("agora não", sem compromisso), §12 (B2B), §14; `references/smart-brevity.md` §2, §4–5; `references/sugarman-adweek-handbook.md` §9; `references/hormozi-ofertas.md` §1, §3; `references/schwartz-1-estrategia.md` §2–3.
-- Bly, *The Copywriter's Handbook*: linhas 4030–4050 (texto de dois passos, executivos ocupados, estilo B2B de Slaunwhite); 6029–6055 (personalização e executivos); 6487–6573 (envelope sem chamada × chamada fraca); 6612–6731 (algo de valor em troca da resposta, aceitar o "não", sem compromisso, envelope que imita fatura); 6895–6914 (mandar menos para chegar à reunião); 8379–8464 (carta de proposta a um editor: ângulo, por que interessa, credencial no P.S., texto no corpo e não anexo, follow-up); 9926–10037 (conselho não solicitado que ignora o objetivo e as métricas); 10155–10165 (ceticismo online); 12344–12394 (LinkedIn: pesquisa e perfil).
-- *Smart Brevity*: linhas 730–822 (diga e pare; Lisa Ross); 1006–1107 (o gancho e as primeiras palavras); 1842–1845 (o pitch mais curto possível).
-- Sugarman, *The Adweek Copywriting Handbook*: linhas 4392–4416 (carta pessoal, "eu" no lugar de "nós", remetente reconhecido); 4664–4668 (assunto: quem envia ou assunto de interesse).
-- Hormozi, *$100M Leads*, capítulos bônus (Markdown): linhas 120–138 (embrulho promocional em mercado frio).
-- Fora dos livros, marcado *(prática de mercado)*: gatilhos, cadência e intervalos, regras de LinkedIn e WhatsApp; LGPD (arts. 7º, 9º, 10, 18 e 19) e o guia da ANPD sobre legítimo interesse.
+- **Referências:** `references/aberturas.md` §3–5 (a pergunta simples, direto × indireto, o leitor cético); `references/fundamentos.md` §3 (B2B), §8 (carta de uma pessoa para outra) e §11 (sem compromisso, o "agora não"); `references/meios-digitais.md` §8 (LinkedIn); `references/brevidade.md` §2, §4, §5 e §9; `references/leitura-e-gatilhos.md` §10; `references/aplicacao-por-meio.md` §8; `references/ofertas.md` §1 e §3; `references/estrategia.md` §2 e §5.
+- **Prática de mercado**: gatilhos, cadência e intervalos, regras de LinkedIn e WhatsApp; LGPD (arts. 7º, 9º, 10, 18 e 19) e o guia da ANPD sobre legítimo interesse.

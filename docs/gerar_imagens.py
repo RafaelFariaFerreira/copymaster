@@ -233,8 +233,9 @@ def capa():
     W, H = 1280, 640
     c = Canvas(W, H, 'copymaster',
                'Capa da skill copymaster: copy de resposta direta em português do Brasil, primeiro o diagnóstico, '
-               'depois o texto. Ao lado, um rascunho de página com a headline cheia de marketês riscada a lápis '
-               'vermelho e reescrita à mão, um depoimento que ainda é placeholder e um post-it com o diagnóstico.',
+               'depois o texto. Ao lado, um rascunho da página de vendas da própria skill: a headline cheia de marketês '
+               'riscada a lápis vermelho e reescrita à mão, um depoimento que ainda é placeholder e um post-it com o '
+               'diagnóstico.',
                rx=28)
     c.defs.append('<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">'
                   '<circle cx="2" cy="2" r="1.1" fill="#E6DCCA"/></pattern>'
@@ -280,10 +281,10 @@ def capa():
     c.add(f'<rect x="{-sw / 2 + 8}" y="{-sh / 2 + 16}" width="{sw}" height="{sh}" rx="8" fill="#5A4A30" opacity=".2" filter="url(#blur)"/>')
     c.add(f'<g transform="translate({-sw / 2} {-sh / 2})">')
     rect(c, 0, 0, sw, sh, WHITE, None, rx=8)
-    c.text(32, 38, 'Home — rascunho 1', 'sans6', 12.5, MUTED)
+    c.text(32, 38, 'Landing page — rascunho 1', 'sans6', 12.5, MUTED)
     c.add(f'<path d="M32 54H{sw - 32}" stroke="#EFE7DA" stroke-width="1.5"/>')
-    c.text(32, 92, 'CONTABILIDADE PARA MEI', 'sans7', 11, MUTED, ls=1.6)
-    for i, ln in enumerate(['Excelência em soluções', 'contábeis completas']):
+    c.text(32, 92, 'PARA QUEM ESCREVE PARA VENDER', 'sans7', 11, MUTED, ls=1.6)
+    for i, ln in enumerate(['A solução definitiva', 'em copywriting com IA']):
         yy = 130 + i * 38
         w = c.text(32, yy, ln, 'serif', 30, INK, op=.42)
         x1, x2, ym = 27, 32 + w + 6, yy - 10
@@ -297,19 +298,20 @@ def capa():
     c.add(f'<path d="M{xr - wf - 34:.0f} 197 h24 m-7 -6 l7 6 l-7 6" stroke="{RED}" stroke-width="2.4" fill="none" '
           f'stroke-linecap="round" stroke-linejoin="round"/>')
     c.text(xr, 204, 'fato', 'hand', 23, RED, anchor='end')
-    hs = fit('Pare de pagar imposto', 'hand', sw - 64, 44)
-    for i, ln in enumerate(['Pare de pagar imposto', 'a mais todo mês.']):
+    nova = ['Pare de publicar', 'página que não vende.']
+    hs = min(fit(ln, 'hand', sw - 64, 44) for ln in nova)
+    for i, ln in enumerate(nova):
         c.text(32, 248 + i * (hs - 2), ln, 'hand', hs, RED)
-    w2 = FONTS['hand'].width('a mais todo mês.', hs)
-    c.text(32 + w2 + 26, 248 + hs - 2, "4 U's", 'hand', 23, RED)
-    check(c, 32 + w2 + 26 + FONTS['hand'].width("4 U's", 23) + 8, 248 + hs - 10, 0.8, RED, 2.6)
+    w1 = FONTS['hand'].width(nova[0], hs)  # a nota vai depois da linha mais curta
+    c.text(32 + w1 + 26, 248, "4 U's", 'hand', 23, RED)
+    check(c, 32 + w1 + 26 + FONTS['hand'].width("4 U's", 23) + 8, 240, 0.8, RED, 2.6)
     for i, bw in enumerate([356, 330, 212]):
         rect(c, 32, 318 + i * 18, bw, 8, '#ECE5D8', None, rx=4)
     rect(c, 32, 380, sw - 64, 62, '#FFF5F1', RED, rx=8, sw=1.6, dash='6 5')
-    lines = wrap('[DEPOIMENTO: cliente que pagava imposto a mais — nome, cidade e foto]', 'sans6', 13, sw - 64 - 36)
+    lines = wrap('[DEPOIMENTO: redator que usou a skill num lançamento — nome, resultado e print]', 'sans6', 13, sw - 64 - 36)
     for i, ln in enumerate(lines):
         c.text(50, 380 + 31 - (len(lines) - 1) * 9 + i * 18 + 4, ln, 'sans6', 13, RED_D)
-    bt = 'Quero revisar meus impostos'
+    bt = 'Instalar grátis no Claude Code'
     bw = FONTS['sans7'].width(bt, 15) + 48
     rect(c, 32, 462, bw, 44, INK, None, rx=10)
     c.text(32 + bw / 2, 489, bt, 'sans7', 15, WHITE, anchor='middle')
@@ -322,7 +324,7 @@ def capa():
     c.add('<rect x="-36" y="-94" width="72" height="22" fill="#FFFFFF" opacity=".55" transform="rotate(-4)"/>')
     c.text(-84, -36, 'Diagnóstico', 'hand', 31, INK)
     c.add(f'<path d="M-84 -27 C -50 -31, -10 -29, 34 -32" stroke="{INK}" stroke-width="2" fill="none" stroke-linecap="round"/>')
-    notes = ['consciente do problema', 'sofisticação: estágio 3', 'ângulo: fuga da dor']
+    notes = ['consciente do problema', 'sofisticação: estágio 4', 'ângulo: fuga da dor']
     ns = min(fit(n, 'hand', 172, 23) for n in notes)
     for i, n in enumerate(notes):
         c.text(-84, 2 + i * 27, n, 'hand', ns, INK2)
@@ -594,7 +596,7 @@ def arquitetura():
     W = 960
     c = Canvas(W, 0, 'O que o Claude lê, e quando',
                'Arquitetura da skill. O SKILL.md é lido sempre e indica o guia do formato pedido, um entre oito na '
-               'pasta formatos. As notas dos livros, na pasta references, são lidas sob demanda, conforme a etapa. '
+               'pasta formatos. O método, organizado por tema na pasta references, é lido sob demanda, conforme a etapa. '
                'Opcionalmente, uma base de conhecimento local com os livros e o grafo do graphify é consultada pelo '
                'script kb_lookup.py; ela fica fora do repositório.')
     yb = header(c, 'POR DENTRO', 'O que o Claude lê, e quando',
@@ -619,11 +621,11 @@ def arquitetura():
     # coluna 1
     core = ['Princípios', 'Briefing e diagnóstico', 'Grande ideia e abertura', 'Técnicas de redação',
             'Revisão e entrega', 'Ética e regulação']
-    refs = [('great-leads', 'abertura', True), ('schwartz-1-estrategia', 'diagnóstico', False),
-            ('schwartz-2-desejo-identificacao-crenca', 'benefícios', False),
-            ('schwartz-3-objecoes-prova-acabamento', 'objeções, prova', False),
-            ('hormozi-ofertas', 'oferta', False), ('sugarman-adweek-handbook', 'texto corrido', False),
-            ('bly-copywriters-handbook', 'checklists, B2B', False), ('smart-brevity', 'e-mail, densidade', True)]
+    refs = [('aberturas', 'abertura', True), ('estrategia', 'diagnóstico', False),
+            ('corpo-do-texto', 'corpo do texto', False), ('leitura-e-gatilhos', 'texto corrido', False),
+            ('aplicacao-por-meio', 'outros meios', False), ('fundamentos', 'briefing, títulos', False),
+            ('meios-digitais', 'e-mail, web', True), ('brevidade', 'densidade', True),
+            ('ofertas', 'oferta', False)]
     forms = ['landing-page', 'site-institucional', 'email', 'prospeccao', 'video', 'vsl', 'artigo', 'advertorial']
     row = 27
     ch = pad + 26 + 24 + len(refs) * row + pad - 4
@@ -657,7 +659,7 @@ def arquitetura():
 
     x = xs[2]
     c.text(x + pad, ty + pad + 18, 'references/', 'mono', 17, INK)
-    c.text(x + pad, ty + pad + 42, 'notas dos livros, abertas na etapa em que ajudam', 'sans', 13, MUTED)
+    c.text(x + pad, ty + pad + 42, 'o método, por tema, aberto na etapa certa', 'sans', 13, MUTED)
     ms = 12
     for name, stage, _ in refs:
         need = FONTS['mono'].width(name, ms) + 14 + FONTS['sans'].width(stage, 12)
@@ -675,12 +677,12 @@ def arquitetura():
     ky = ty + ch + 70
     xc = xs[2] + cols[2] / 2
     arrow(c, f'M{xc} {ty + ch + 6} V{ky - 8}', MUTED, 1.6, '5 5')
-    c.text(xc - 14, ty + ch + 40, 'quando o resumo não basta', 'hand', 21, MUTED, anchor='end')
+    c.text(xc - 14, ty + ch + 40, 'para conferir um ponto no original', 'hand', 21, MUTED, anchor='end')
     kw = 864
     term_w = 420
     left_w = kw - term_w - 3 * 24
-    desc = ('Os livros completos em Markdown e o grafo do graphify. A skill busca o conceito e lê só o trecho de que '
-            'precisa, nunca o livro inteiro. O .gitignore mantém a base fora do repositório.')
+    desc = ('Os livros completos em Markdown e o grafo do graphify. A skill funciona sem eles; com eles, confere um '
+            'ponto lendo só o trecho, nunca o livro inteiro. O .gitignore mantém a base fora do repositório.')
     dl = wrap(desc, 'sans', 14, left_w)
     kh = max(24 + 26 + 18 + len(dl) * 20 + 22, 4 * 26 + 48)
     rect(c, 48, ky, kw, kh, PAPER2, MUTED, rx=14, sw=1.4, dash='6 5')

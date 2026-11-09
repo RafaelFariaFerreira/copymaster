@@ -10,7 +10,7 @@ Página com **um único próximo passo**: comprar, agendar, cadastrar, aplicar, 
 
 - De onde vem o tráfego e o que a peça anterior prometeu (o texto do anúncio, o assunto do e-mail, o gancho do vídeo).
 - O que acontece depois do clique (checkout, formulário, WhatsApp, agenda) e quantos campos o formulário pede.
-- A taxa de conversão atual, se a página já existe. Sem métrica, não há como saber qual versão funciona. *(Bly)*
+- A taxa de conversão atual, se a página já existe. Sem métrica, não há como saber qual versão funciona.
 
 ## 3. Estrutura
 
@@ -40,10 +40,10 @@ Página com **um único próximo passo**: comprar, agendar, cadastrar, aplicar, 
 - **H1**: uma ideia só. Nunca o nome da categoria ("A plataforma completa para…"), nunca um atributo físico do produto, nunca três propostas de valor. As regras de abertura do SKILL.md (§5) valem aqui: primeiras palavras com o ponto, palavras concretas, 4 U's.
 - **Subheadline**: completa o H1 — promessa + mecanismo, ou promessa + prova. Duas afirmações que se reforçam valem por quatro. Ela acrescenta ao H1; não o repete com outras palavras.
 - **CTA**: o texto descreve o que acontece e o que ele ganha ("Agendar minha avaliação gratuita", "Testar 14 dias grátis"), não "Enviar" ou "Saiba mais". Abaixo do botão, microcopy que reduz o risco ("Sem cartão de crédito", "Leva 2 minutos").
-- **Prova imediata**: credibilidade antes de rolar — um número, logos de clientes, um selo ou um depoimento de uma linha, só se for real. Se a página fala na voz de alguém, diga quem é e por que entende do assunto. *(Bly)*
+- **Prova imediata**: credibilidade antes de rolar — um número, logos de clientes, um selo ou um depoimento de uma linha, só se for real. Se a página fala na voz de alguém, diga quem é e por que entende do assunto.
 - **Uma tela de celular**: eyebrow, H1, subheadline, botão e microcopy cabem na primeira tela do celular. Se não couberem, corte palavras antes de diminuir a fonte.
 
-## 5. Cada seção segue a mesma estrutura *(Smart Brevity)*
+## 5. Cada seção segue a mesma estrutura
 
 - **Rótulo** (opcional): uma linha curta acima do título que situa quem está escaneando ("Como funciona", "Em números", "Para quem é").
 - **Título**: diz o ponto da seção, não o nome dela ("Três passos, e o primeiro leva 2 minutos", não "Nossa metodologia").
@@ -55,21 +55,21 @@ Uma página longa é uma sequência de blocos curtos, não um conjunto de blocos
 
 ## 6. Regras próprias da página
 
-- **Sem menu nem links de saída:** a única escolha é responder ou não. *(Bly)*
-- **Legendas que vendem:** legendas são mais lidas que o corpo do texto; toda imagem ou print ganha uma legenda que diz um benefício, não um rótulo ("Às 8h, o painel mostra quem ainda não confirmou", não "Painel de agenda"). *(Bly; Sugarman)*
-- **Especificações fora do fluxo de venda:** fichas, tabelas e cálculos vão para um acordeão ou uma ficha técnica; "a carta vende, o folheto informa". *(Bly)*
-- **Botões ao longo da página:** numa página longa, um botão depois de cada bloco de prova e no fim, não só no hero; o preço achável por quem rola rápido. *(Sugarman)*
+- **Sem menu nem links de saída:** a única escolha é responder ou não.
+- **Legendas que vendem:** legendas são mais lidas que o corpo do texto; toda imagem ou print ganha uma legenda que diz um benefício, não um rótulo ("Às 8h, o painel mostra quem ainda não confirmou", não "Painel de agenda").
+- **Especificações fora do fluxo de venda:** fichas, tabelas e cálculos vão para um acordeão ou uma ficha técnica; "a carta vende, o folheto informa".
+- **Botões ao longo da página:** numa página longa, um botão depois de cada bloco de prova e no fim, não só no hero; o preço achável por quem rola rápido.
 - **FAQ** — objeções que sobraram, crenças limitantes contraditas com autoridade ("Preciso entender de tecnologia? Não, e eis por quê…") e a pergunta "para quem não é". Cada resposta começa pela resposta ("Sim.", "Não.", "R$ 90 por mês.") e só depois explica, partindo do que o visitante já aceita.
 
 ## 7. Adaptações por tipo de página
 
 - **Landing page de anúncio:** a página continua o anúncio. O gancho do anúncio reaparece no H1 quase com as mesmas palavras, e o tipo de lead se mantém. O preço ou a condição que o anúncio mostra se repete na página. Se houver várias fontes de tráfego, sugira variantes de hero por fonte.
-- **Página que recebe e-mail:** se o e-mail já vendeu, a página é curta e repete a oferta dele; se só despertou o interesse, a página traz o argumento completo. *(Bly)*
+- **Página que recebe e-mail:** se o e-mail já vendeu, a página é curta e repete a oferta dele; se só despertou o interesse, a página traz o argumento completo.
 - **Página que recebe vídeo (anúncio ou VSL):** o H1 retoma a promessa falada no vídeo; o visitante já ouviu o argumento, então a página prova e fecha.
-- **Página de captura (isca digital, lista de espera, webinar):** curta. O "produto" é a isca: promessa específica, o que ele recebe, razão do grátis, formulário mínimo. Abra pela isca só se ela for excepcional; se for comum, abra pelo problema. Chame-a de guia, checklist ou modelo, não de "e-book", e prefira o "como fazer" ou o "pronto para usar". *(Bly)*
+- **Página de captura (isca digital, lista de espera, webinar):** curta. O "produto" é a isca: promessa específica, o que ele recebe, razão do grátis, formulário mínimo. Abra pela isca só se ela for excepcional; se for comum, abra pelo problema. Chame-a de guia, checklist ou modelo, não de "e-book", e prefira o "como fazer" ou o "pronto para usar".
 - **Página de vendas longa (infoproduto, mentoria):** sequência-mestre completa; o mecanismo e a prova carregam a página; garantia como clímax.
 - **Serviço local (clínica, escritório, academia):** a oferta de entrada costuma ser grátis ou com desconto (avaliação, primeira sessão), com a razão e o limite de vagas reais; prova local; o que acontece depois do clique.
-- **SaaS/B2B:** subestimação, especificidade, comparação com o jeito atual (planilha, ERP, processo manual), "como funciona" concreto, trial ou demonstração como CTA, preço ancorado no custo de horas ou de erros. O comprador técnico quer especificações, limitações e preço: specs e cálculos num bloco à parte. No estudo de caso, diga que alternativas o cliente descartou e por quê. *(Bly)*
+- **SaaS/B2B:** subestimação, especificidade, comparação com o jeito atual (planilha, ERP, processo manual), "como funciona" concreto, trial ou demonstração como CTA, preço ancorado no custo de horas ou de erros. O comprador técnico quer especificações, limitações e preço: specs e cálculos num bloco à parte. No estudo de caso, diga que alternativas o cliente descartou e por quê.
 - **Página de obrigado:** confirma o que aconteceu, diz o próximo passo e quando ele chega ("O guia está no seu e-mail em até 5 minutos; procure por …"), e aproveita o "sim" recente para um segundo passo pequeno (entrar no grupo, agendar, uma oferta complementar).
 
 ## 8. Ética própria da página
