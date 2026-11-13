@@ -85,7 +85,8 @@ A espinha segue a progressão do mercado inconsciente: identificação → consc
 - **Cara de matéria, não de página de vendas.** Coluna única, fonte de texto, foto com legenda, intertítulos. Nada de botão gigante no topo, selo de "compra segura" no meio do texto ou contador. Os links para a oferta ficam dentro do texto (ex.: "veja como funciona o [mecanismo]") e num botão discreto depois da prova *(prática de mercado)*.
 - **Jeito de reportagem, verdade de anúncio.** Frases afirmativas, verificáveis, com fonte; nada de "especialistas afirmam" sem nome. O tom de notícia exige fato de notícia, sem exagero.
 - **Subestimação.** Menos adjetivos do que o leitor espera, nenhum superlativo. Admitir um limite real e periférico faz o resto ser mais acreditado.
-- **Escorregador e sementes.** Cada parágrafo termina puxando o próximo; onde o texto desacelera, uma semente de curiosidade, paga logo depois.
+- **Um narrador, do começo ao fim.** O advertorial é narrativa: alguém conta o que aconteceu, cena por cena, na ordem em que aconteceu ("aí", "naquela semana", "até que"). Contar que houve uma história ("Carla enfrentava dificuldades com devoluções") não é contá-la. O texto de reportagem também é ligado: uma frase leva à outra (`references/voz-e-fluidez.md` §4 e §9).
+- **Escorregador e sementes.** Cada parágrafo termina puxando o próximo; onde o texto desacelera, uma semente de curiosidade, paga logo depois. Prefira a frase que fica aberta do jeito daquela história à fórmula pronta.
 - **Intertítulos que fazem a história andar.** ex.: "O problema não era a planilha. Era a hora em que ela era preenchida." Lidos em sequência, contam a história.
 - **O produto entra tarde e por inteiro**, como parte da virada, nunca colado no fim: é o fio de ouro. Nenhum preço antes da ponte.
 - **Legendas que vendem, em tom de matéria.** Legenda é mais lida que o corpo: em folhetos, chega ao dobro de leitura. Cada foto ganha uma legenda que avança a história ou diz um benefício (ex.: "Carla no galpão: o primeiro mês sem devolução por erro de etiqueta"). Fotos reais da pessoa real; imagem de banco ou gerada por IA leva "imagem ilustrativa"; antes e depois só se for real e permitido no setor.
@@ -175,7 +176,7 @@ As variações para teste são de título + linha fina + primeira frase; pelo me
 - [ ] O rótulo de publicidade aparece na primeira tela do celular e no rodapé, com a identificação de quem anuncia?
 - [ ] Nenhum veículo, jornalista, logo de mídia, celebridade, comentário ou data falsos?
 - [ ] O título chama o leitor pela identificação, pelo fato ou pelo segredo, sem nome do produto e sem preço?
-- [ ] A primeira frase continua o título? Cada parágrafo puxa o próximo? Os intertítulos contam a história para quem só rola a tela?
+- [ ] A primeira frase continua o título? Cada parágrafo puxa o próximo? Os intertítulos contam a história para quem só rola a tela? A história é contada em cenas, por um narrador, e não resumida em frases soltas?
 - [ ] A causa escondida e o mecanismo vêm antes do produto, e o produto entra como parte da virada?
 - [ ] Toda prova, fato de "notícia" e depoimento é real e tem fonte, ou virou placeholder?
 - [ ] Toda foto tem legenda que avança a história? Imagem de banco ou de IA está marcada como ilustrativa?
@@ -184,4 +185,4 @@ As variações para teste são de título + linha fina + primeira frase; pelo me
 
 ## Referências da skill
 
-- **Referências:** `references/corpo-do-texto.md` §13 (camuflagem: formato, fraseologia, tom) e §11 (prova); `references/estrategia.md` §5 e §6 (mercado inconsciente e headline de identificação); `references/aberturas.md` §4, §5, §6.3–6.6, §7 e §11; `references/leitura-e-gatilhos.md` §6 (escorregador e sementes de curiosidade), §10 (assinatura real) e §16; `references/aplicacao-por-meio.md` §3 (abertura e legendas) e §6 (crédito); `references/brevidade.md` §5 e §13; `references/fundamentos.md` §12 (anúncio com cara de artigo); `references/meios-digitais.md` §8 (anúncio nativo) e §10 (estudo de caso).
+- **Referências:** `references/voz-e-fluidez.md` (§3–5 e §9); `references/corpo-do-texto.md` §13 (camuflagem: formato, fraseologia, tom) e §11 (prova); `references/estrategia.md` §5 e §6 (mercado inconsciente e headline de identificação); `references/aberturas.md` §4, §5, §6.3–6.6, §7 e §11; `references/leitura-e-gatilhos.md` §6 (escorregador e sementes de curiosidade), §10 (assinatura real) e §16; `references/aplicacao-por-meio.md` §3 (abertura e legendas) e §6 (crédito); `references/brevidade.md` §5 e §13; `references/fundamentos.md` §12 (anúncio com cara de artigo); `references/meios-digitais.md` §8 (anúncio nativo) e §10 (estudo de caso).

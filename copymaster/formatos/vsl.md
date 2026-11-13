@@ -86,11 +86,12 @@ O tamanho certo é o que o diagnóstico pede, não o que "uma VSL costuma ter": 
 ## 5. Regras de redação próprias do formato
 
 **Regras para VSL**:
+- **É um monólogo.** A VSL é o formato em que a peça é, literalmente, alguém falando: escreva a fala, não um texto para ser lido. Uma frase emenda na outra com "e", "mas", "só que", "aí"; a pessoa retoma o que acabou de dizer, pergunta o que o espectador perguntaria e responde, pausa. Se um trecho soa lido, reescreva como seria dito (SKILL.md §5, "Voz e fluxo"; `references/voz-e-fluidez.md` §3–5). Se o apresentador mandou um áudio ou tem vídeos gravados, parta do jeito dele de falar.
 - **Quebre o padrão na abertura:** a primeira frase surpreende. ex.: "Em março de 2021 eu fechei a confeitaria com 14 encomendas na agenda."
 - **Conte uma história que leve o espectador junto,** o "escorregador de veludo".
 - **Densidade de informação cerca de 20% menor** que a do texto equivalente: menos fatos por minuto do que por página.
-- **Frases e palavras curtas.** A regra em inglês é não usar palavra com mais de 9 letras; em português, use a palavra comum mais curta (SKILL.md, português).
-- **Parágrafos de uma ou duas frases**, o que também deixa o slide legível.
+- **Frases de um fôlego e palavras curtas.** A regra em inglês é não usar palavra com mais de 9 letras; em português, use a palavra comum mais curta (SKILL.md, português). Curta não é solta: quem ouve não pode reler, então a ligação entre as frases precisa estar dita.
+- **Blocos de fala de uma ou duas frases**, o que também deixa o slide legível. A quebra é a respiração de quem fala, não um ponto final a cada seis palavras.
 - **Um gráfico para sustentar uma afirmação:** mesmo visto por poucos segundos, passa a impressão de prova.
 - **Solução no primeiro ou no segundo minuto** (§3).
 - **No máximo dois números por frase**; se houver mais, arredonde pelo menos um.
@@ -180,6 +181,7 @@ Depois do diagnóstico (formato comum no SKILL.md), a VSL vem assim:
 ## 9. Checklist
 
 - [ ] A primeira frase quebra o padrão e o lead cabe em 1 a 5 minutos? Até o minuto 2, o espectador sabe que existe uma saída e de que tipo?
+- [ ] Lido em voz alta, o roteiro soa como alguém falando, com as frases emendadas, ou como um texto lido? Há fala que ninguém diria?
 - [ ] O tamanho segue o preço e a consciência, e cada bloco acrescenta algo novo?
 - [ ] Alguma frase tem mais de dois números? O texto de cada slide é o que a voz diz, em uma ou duas frases?
 - [ ] A grande ideia e o nome do mecanismo se repetem com as mesmas palavras? As curiosidades abertas se pagam no vídeo?
@@ -190,5 +192,5 @@ Depois do diagnóstico (formato comum no SKILL.md), a VSL vem assim:
 
 ## Referências da skill
 
-- **Referências:** `references/meios-digitais.md` §9 (VSL); `references/fundamentos.md` §11 (oferta, garantia e pedido); `references/aberturas.md` §1, §6, §7 e §11; `references/leitura-e-gatilhos.md` §6 (sementes de curiosidade) e §12 (fechamento, convicção de satisfação, urgência honesta); `references/aplicacao-por-meio.md` §8 (VSL); `references/ofertas.md` §3 e §4; `references/corpo-do-texto.md` §7 (mecanização), §9 (preço) e §12 (embalo); `references/brevidade.md` §5 e §9.
+- **Referências:** `references/voz-e-fluidez.md` (§2–5 e §10); `references/meios-digitais.md` §9 (VSL); `references/fundamentos.md` §11 (oferta, garantia e pedido); `references/aberturas.md` §1, §6, §7 e §11; `references/leitura-e-gatilhos.md` §6 (sementes de curiosidade) e §12 (fechamento, convicção de satisfação, urgência honesta); `references/aplicacao-por-meio.md` §8 (VSL); `references/ofertas.md` §3 e §4; `references/corpo-do-texto.md` §7 (mecanização), §9 (preço) e §12 (embalo); `references/brevidade.md` §5 e §9.
 - **Prática de mercado**: a sequência do empilhamento de valor, a oferta no último terço do webinar, a versão em texto, os números escritos para o teleprompter.

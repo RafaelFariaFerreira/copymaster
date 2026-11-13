@@ -112,6 +112,7 @@ No SaaS: o que é e para quem → ganho principal → funcionalidades "feature �
 - **SEO, só no que muda o texto**: cada página mira 2 ou 3 expressões de 2 a 4 palavras ("contador para dentistas", não "contabilidade"); a principal entra no H1, de preferência no começo, e no title, e aparece com naturalidade no texto e nos links internos; repetição forçada é penalizada e soa estranha. Na home, o H1 é a grande ideia, e a expressão vai no eyebrow e no title.
   - *Datado:* os limites antigos (title até 60 caracteres, meta description até 158) e a afirmação de que site com várias páginas ranqueia acima de landing page não valem mais como regra. *(prática de mercado)* Use os limites só como referência, porque os buscadores cortam pela largura e às vezes reescrevem; uma intenção de busca por página, porque duas páginas para a mesma busca competem entre si; serviço local leva cidade ou bairro no title e no H1; a meta description é um anúncio de duas linhas (promessa, prova, ação), não uma lista de palavras-chave.
 - **Títulos que afirmam e blocos curtos** (SKILL.md §5; landing page §5): o visitante de um site compara e pula de página em página, e cada uma precisa dizer seu ponto antes do pulo.
+- **Alguém da casa explicando, não um folheto.** O defeito típico do site institucional é a fila de substantivos abstratos ("atuação preventiva e contenciosa", "soluções integradas"). Escreva o que o sócio ou a pessoa que atende diria na primeira reunião, no registro dela, com as frases ligadas. Em setor regulado o tom continua sóbrio e informativo: fluido não é informal (`references/voz-e-fluidez.md` §2 e §8, exemplo E).
 - **Pessoas reais nas fotos:** equipe, consultório, clientes que autorizaram, no próximo degrau do visitante; nada de aperto de mão de banco de imagens. Legendas que vendem, como na landing page.
 - **Seja atual:** número, data ou regra vencida custa credibilidade. Marque no mapa o que pede revisão periódica (preços, equipe, números, regras fiscais).
 
@@ -185,6 +186,7 @@ As variações para teste são do H1 da home (e da página do maior segmento, se
 - [ ] Há uma página por serviço, produto ou segmento, e cada uma se apresenta sozinha para quem chega pela busca?
 - [ ] A expressão principal está no H1 e no title, sem repetição forçada, com uma intenção por página? A meta description vende?
 - [ ] Cada página trata de um tópico, perto das 300–400 palavras, ou tem motivo para passar disso?
+- [ ] O texto de cada página soa como alguém da casa explicando, com as frases ligadas, no registro do setor, e não como uma fila de substantivos abstratos e bullets?
 - [ ] O "Sobre" abre com um fato que prova algo? O bloco de autoridade traz resultado, credencial e convite com canal?
 - [ ] Cada botão diz o que acontece? O formulário é mínimo, há canal alternativo e uma saída "agora não"?
 - [ ] O menu usa as palavras do cliente, com poucos itens, e cada link diz para onde leva? Grande ideia, tom, nomes, números e frase de autoridade são os mesmos em todas as páginas?
@@ -192,5 +194,5 @@ As variações para teste são do H1 da home (e da página do maior segmento, se
 
 ## Referências da skill
 
-- **Referências:** `references/meios-digitais.md` §4 (site e loja), §5 (SEO) e §14 (datado); `references/fundamentos.md` §3 (B2B), §6 (tamanho), §10 (sinais de empresa real), §11 (próximo passo e canal alternativo) e §13 (roteiros de material de produto, de serviço e institucional); `references/leitura-e-gatilhos.md` §9 (honestidade e autoridade) e §10 (de uma pessoa para uma pessoa); `references/aplicacao-por-meio.md` §8 (loja); `references/brevidade.md` §2 e §10; `references/estrategia.md` §12 (segmentos); `references/corpo-do-texto.md` §6 e §15; `references/aberturas.md` §2; `references/ofertas.md` §4 (atrito).
+- **Referências:** `references/voz-e-fluidez.md` (§2, §8 e §9); `references/meios-digitais.md` §4 (site e loja), §5 (SEO) e §14 (datado); `references/fundamentos.md` §3 (B2B), §6 (tamanho), §10 (sinais de empresa real), §11 (próximo passo e canal alternativo) e §13 (roteiros de material de produto, de serviço e institucional); `references/leitura-e-gatilhos.md` §9 (honestidade e autoridade) e §10 (de uma pessoa para uma pessoa); `references/aplicacao-por-meio.md` §8 (loja); `references/brevidade.md` §2 e §10; `references/estrategia.md` §12 (segmentos); `references/corpo-do-texto.md` §6 e §15; `references/aberturas.md` §2; `references/ofertas.md` §4 (atrito).
 - O que é prática de mercado ou norma brasileira está marcado no texto.

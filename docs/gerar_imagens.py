@@ -619,10 +619,11 @@ def arquitetura():
         c.text(x, ty - 12, lab, 'sans7', 11, RED, ls=1.4)
     pad = 18
     # coluna 1
-    core = ['Princípios', 'Briefing e diagnóstico', 'Grande ideia e abertura', 'Técnicas de redação',
+    core = ['Princípios', 'Briefing e diagnóstico', 'Grande ideia, abertura e voz', 'Técnicas de redação',
             'Revisão e entrega', 'Ética e regulação']
-    refs = [('aberturas', 'abertura', True), ('estrategia', 'diagnóstico', False),
-            ('corpo-do-texto', 'corpo do texto', False), ('leitura-e-gatilhos', 'texto corrido', False),
+    refs = [('voz-e-fluidez', 'voz e texto corrido', True),
+            ('aberturas', 'abertura', True), ('estrategia', 'diagnóstico', False),
+            ('corpo-do-texto', 'corpo do texto', False), ('leitura-e-gatilhos', 'leitura, gatilhos', False),
             ('aplicacao-por-meio', 'outros meios', False), ('fundamentos', 'briefing, títulos', False),
             ('meios-digitais', 'e-mail, web', True), ('brevidade', 'densidade', True),
             ('ofertas', 'oferta', False)]

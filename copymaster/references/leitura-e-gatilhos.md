@@ -166,11 +166,12 @@ A aplicação desses princípios por tarefa e a adaptação a outros meios ficam
 - O que vende é quantas pessoas entram no texto e chegam ao fim, não quantas o viram (alcance não é leitura). Ao recomendar métricas, prefira profundidade de rolagem e cliques nos botões a impressões.
 - A ideia de que quem lê uma parte grande do texto tende a lê-lo inteiro não tem número confiável por trás: não use como dado.
 - Cada frase e cada bloco terminam abrindo o seguinte. Um bloco que fecha o assunto sem puxar o próximo é um ponto de parada.
+- Os mecanismos que fazem uma frase puxar a outra (retomada, conectivo de fala, pergunta do leitor, causa dentro da frase, sequência no tempo) e os testes para conferir estão em `voz-e-fluidez.md` (§4).
 
 **Sementes de curiosidade** (*seeds of curiosity*):
 - Uma frase curta no fim de um parágrafo dá motivo para ler o próximo, sobretudo onde o texto desacelera (antes de um bloco técnico, de uma lista, de uma explicação). *(ilustrativo: "Explico." · "Mas não parei aí." · "E aqui vem a parte boa." · "Só que tem um detalhe.")*
 - Uma promessa no começo de algo que só será revelado mais adiante faz o leitor atravessar o texto para chegar lá.
-- O ideal é o texto prender sem elas; na prática, quase sempre melhoram. Use com moderação: duas seguidas soam a truque.
+- O ideal é o texto prender sem elas; na prática, quase sempre melhoram. Use com moderação: duas seguidas soam a truque, e a mesma fórmula duas vezes na peça ("Explico." … "Explico.") vira tique. Prefira a frase que fica aberta do jeito que a pessoa falaria, e que só caberia naquele texto.
 - Toda semente é paga no bloco seguinte. Semente sem pagamento é isca de clique.
 - Nunca ponha a semente no lugar do ponto que o título da seção precisa dizer.
 
@@ -180,8 +181,8 @@ A aplicação desses princípios por tarefa e a adaptação a outros meios ficam
 - **O limite:** guarde a conclusão e a experiência, nunca a informação de que ele precisa para decidir (preço, prazo, medida, condição). Fato que falta vira desculpa para não comprar, e o preço nunca vira segredo a ser revelado.
 
 **Ritmo.**
-- Alterne frases curtas, médias e longas sem padrão previsível. Todas curtas cansa; todas longas também.
-- Listas de três itens, com "e" antes do último, dão cadência (a tríade).
+- Alterne frases curtas, médias e longas sem padrão previsível. Todas curtas cansa; todas longas também. O tamanho segue o pensamento: a comprida corre enquanto a ideia anda, a curta pousa depois (`voz-e-fluidez.md` §5).
+- Listas de três itens, com "e" antes do último, dão cadência (a tríade). Três quando são três: completar dois itens com um terceiro genérico é o tique mais reconhecível de texto montado.
 - Humor é o registro mais difícil: exige preparação e tempo certo da virada. Só use se o briefing pedir e o produto aguentar.
 
 **Intertítulos.** No impresso, servem para o texto parecer menos pesado. Na web, quem escaneia lê os intertítulos, então eles dizem o ponto (vence `brevidade.md`; ver §16). Distribua-os de modo regular e não deixe dois seguidos sem texto entre eles.
@@ -313,6 +314,7 @@ São as mensagens de fundo que a peça transmite, quase sempre de forma sutil. U
 - **Assinatura.** O nome de quem escreve ou do dono na peça permite falar em primeira pessoa. Uma carta do dono, com foto, no começo de uma página com vários produtos permite falar de todos em primeira pessoa e dá à empresa um rosto alcançável.
 - **O "nós" editorial também é menos pessoal que o "eu".**
 - **A personalidade do redator transparece**, e a desonestidade também. Ao escrever na voz do fundador ou do cliente, reflita a personalidade dele, não a sua.
+- **Como isso soa frase a frase** (a cena da conversa, o registro por público, as marcas de gente e a linha **Voz** do diagnóstico) está em `voz-e-fluidez.md` (§2 e §6).
 - **O registro muda com o mercado:** o especialista para um público técnico, o vizinho que entende do assunto para o comércio de bairro, com o vocabulário de cada um. A voz real (uma expressão regional, um jeito de falar) vale mais que a gramática escolar, desde que não seja erro (§13).
 - **Transparência como tom:** mostrar uma equipe pequena e real, ou publicar uma crítica de cliente com uma resposta respeitosa, compra mais confiança que qualquer autoelogio. Use só com material real do briefing.
 - **Cartas de agradecimento e pós-venda** também são pessoais: alguém com nome agradece um pedido específico, não "a empresa agradece a preferência".
@@ -398,7 +400,7 @@ São as mensagens de fundo que a peça transmite, quase sempre de forma sutil. U
 1. **Cace o enchimento que só anuncia o que vem:** "É importante destacar que", "Vale lembrar que", "Saiba que", "E, como você já deve saber,", "Por fim, cabe ressaltar que…". Sai sem perda (mais pigarro no SKILL.md).
 2. **Edite o ritmo:** alterne o tamanho das frases (§6).
 3. **Junte frases que dizem uma coisa só.**
-4. **Tire palavras que não mudam o sentido** (artigos, advérbios, "realmente", "muito").
+4. **Tire palavras que não mudam o sentido** (advérbios de reforço, "realmente", "muito", o artigo que sobra). Não entram aqui os conectivos e as retomadas ("e", "mas", "só que", "aí", "isso"): eles mudam a leitura, porque ligam a frase à anterior.
 5. **Reordene para a emoção vir antes da explicação:** o prazer do resultado primeiro, a função do produto depois.
 
 **Revisão final** (depois da pausa do passo 6).
@@ -510,7 +512,8 @@ Use em peças longas (página de vendas, carta, VSL, advertorial). Os itens cobr
 | Uma escolha × atrito | Uma opção para o público frio. | `ofertas.md`: atrito como ferramenta de qualificação. | **Os dois:** menos opções reduz o atrito de decisão; campos e perguntas de qualificação continuam sendo decisão de `ofertas.md`. |
 | Cura × ângulo dor/prazer | Prevenção é a posição mais fraca; venda a cura. | SKILL.md (ajuste pelo ângulo) e `estrategia.md` §5.4 (projetar o risco em quem o leitor ama). | **Compatíveis:** siga a ordem de §4; a busca do prazer vem por último. |
 | Primeira pessoa | Assinatura, "eu", carta do dono. | `brevidade.md`: escreva como fala. | **Compatíveis;** esta referência dá as ferramentas concretas. Em B2B sóbrio, ver §10. |
-| Quanto cortar | Corte de metade a quatro quintos de um rascunho despejado. | SKILL.md: passe de corte de 30%. | **30% é o mínimo** em qualquer peça; o corte maior vale quando o rascunho é despejo. Nos dois casos, confira precisão, coesão e voz. |
+| Quanto cortar | Corte de metade a quatro quintos de um rascunho despejado. | SKILL.md: passe de corte; `voz-e-fluidez.md`: o corte leva os conectivos. | O corte grande vale quando o rascunho é despejo; num texto já enxuto, corta-se só o que não trabalha. Conectivos, retomadas e pontes ficam fora da conta, e o **passe de voz** vem depois do corte. |
+| Ritmo e tríade | Frases de tamanhos alternados; listas de três dão cadência. | `voz-e-fluidez.md` §5 e §7: tríade automática e frase curta em série são tiques. | Concordam no princípio. Três itens quando são três; frase curta em série só nos picos. |
 | Garantia × lei | Teste de um a dois meses, ou sem prazo. | CDC, art. 49 (7 dias de arrependimento). | Os 7 dias são o piso legal, não um diferencial; a garantia que pesa na decisão vai além deles (§12). |
 
 ## 17. Glossário

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: reescrever-email-robotizado
+expected_outcome: |
+  Reescrita de um e-mail de venda que soa robotizado: a resposta aponta os padrões de texto montado no original, entrega um e-mail em primeira pessoa, na voz de quem assina, com as frases ligadas, mantendo os fatos e as condições do briefing, sem inventar provas nem histórias e sem prometer resultado de saúde.

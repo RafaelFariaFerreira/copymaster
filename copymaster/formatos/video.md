@@ -62,7 +62,8 @@ Cada camada precisa funcionar sozinha: quem está sem som lê, quem não olha a 
 ex.: agenda online para clínicas — fala: "A hora mais cara da clínica é a que fica vazia."; tela: "A cadeira vazia das 14h"; imagem: cadeira de atendimento vazia, relógio marcando 14h10.
 
 **Escreva para o ouvido.** Quem ouve não volta para reler.
-- Frases curtas, palavras comuns, uma informação por frase; no máximo dois números por frase.
+- Frases de um fôlego, palavras comuns, uma informação por frase; no máximo dois números por frase.
+- Curta não é solta. A fala emenda uma frase na outra ("e", "só que", "aí", "por isso"), e é isso que separa alguém falando de alguém lendo. Escreva o que a pessoa diria para a câmera, do jeito dela; em UGC, entregue os pontos e deixe as palavras com o criador (`references/voz-e-fluidez.md` §4 e §5).
 - Diga o número como se fala ("38%") e deixe fonte e período escritos na tela.
 - Repita o nome da marca e o ponto principal pelo menos duas vezes: memória e quem chegou no meio. Comprima a promessa em poucas palavras-chave e repita essas mesmas palavras.
 - Leia em voz alta, grave no celular e cronometre cada bloco.
@@ -158,7 +159,7 @@ As variações para teste do SKILL.md são os ganchos desta tabela. Em vídeos d
 
 - [ ] Nos primeiros 3 segundos, fala, texto na tela e imagem dizem a mesma ideia, e cada camada funciona sozinha?
 - [ ] Assistido no mudo, dá para entender o que se vende, a promessa, a prova e a ação?
-- [ ] As palavras faladas não passam de 2 por segundo de vídeo? O roteiro foi lido em voz alta e cronometrado?
+- [ ] As palavras faladas não passam de 2 por segundo de vídeo? O roteiro foi lido em voz alta e cronometrado? A fala soa dita, com as frases emendadas, e não lida?
 - [ ] Uma ideia só? Marca e ponto principal ditos pelo menos duas vezes? Nenhuma frase com mais de dois números?
 - [ ] Cada cena da coluna "Imagem" prova ou mostra algo?
 - [ ] O CTA diz o que fazer e o que acontece depois, na fala e na tela, uma vez só como pedido?
@@ -168,5 +169,5 @@ As variações para teste do SKILL.md são os ganchos desta tabela. Em vídeos d
 
 ## Referências da skill
 
-- **Referências:** `references/meios-digitais.md` §3 (do anúncio até a página), §9 (vídeo e áudio) e §14 (datado); `references/aplicacao-por-meio.md` §8 (vídeo curto e áudio); `references/aberturas.md` §6, §7 e §11; `references/corpo-do-texto.md` §15 (campanha e variações); `references/brevidade.md` §4 e §9.
+- **Referências:** `references/voz-e-fluidez.md` (§2, §4 e §5); `references/meios-digitais.md` §3 (do anúncio até a página), §9 (vídeo e áudio) e §14 (datado); `references/aplicacao-por-meio.md` §8 (vídeo curto e áudio); `references/aberturas.md` §6, §7 e §11; `references/corpo-do-texto.md` §15 (campanha e variações); `references/brevidade.md` §4 e §9.
 - **Prática de mercado**: estrutura de UGC, zonas livres da tela, "link da bio", biblioteca de músicas, entrega da promessa do título no YouTube.

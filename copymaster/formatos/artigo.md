@@ -58,7 +58,7 @@ Um artigo atende **uma** intenção. Se a palavra-chave mistura duas, escolha a 
 
 **Brevidade × escorregador: quem vence onde.**
 - **Na abertura do artigo de busca, vence a brevidade.** O leitor chegou com uma pergunta e decide em segundos se a página responde. Abra com a resposta ou o veredito em uma ou duas frases; em seguida, por que isso importa para ele. É o BLUF: o resumo no topo. Corte o aquecimento e cumpra a promessa do título já no primeiro parágrafo.
-- **Dentro de cada seção, vence o escorregador.** Cada frase puxa a próxima, as transições ficam e as sementes de curiosidade seguram onde o texto desacelera.
+- **Dentro de cada seção, vence o escorregador.** Cada frase puxa a próxima, as transições ficam e as sementes de curiosidade seguram onde o texto desacelera. O artigo soa como o especialista explicando o assunto a um cliente, não como um verbete (`references/voz-e-fluidez.md` §4 e §9).
 - **No artigo de leitura** (estudo de caso, artigo que chega por newsletter ou rede social), **o escorregador pode abrir** com uma cena curta, no meio do conflito. Mas o "por que importa" aparece na primeira tela do celular.
 - **Nos intertítulos, negritos e listas, vence sempre a brevidade:** eles dizem o ponto (`references/leitura-e-gatilhos.md` §16).
 
@@ -85,7 +85,8 @@ Um artigo atende **uma** intenção. Se a palavra-chave mistura duas, escolha a 
 ## 5. Regras de redação próprias do formato
 
 - **Intertítulos que afirmam.** Cada H2 é uma frase com o ponto da seção ("O prazo conta a partir do mês em que você passou do limite", não "Prazos"). Quem lê só os H2 sai com o resumo. Um ou dois H2 podem ser a pergunta que as pessoas buscam ("Quanto custa…?"), se a primeira frase da seção for a resposta *(prática de mercado)*.
-- **Escaneável.** Parágrafos de 2 a 4 frases (o artigo tolera uma a mais que a página); passos em lista numerada; comparação em tabela; um negrito por bloco, no número ou na conclusão; sinalizadores ("Em números", "Na prática", "Resumindo") quando ajudam. O tempo de leitura no topo é opcional; calcule 265 palavras por minuto.
+- **A voz de quem atende.** Quem escreve é a pessoa que responde a essa pergunta toda semana, e dá para notar: ela diz o que costuma ver, onde as pessoas erram, o que faria no lugar do leitor. A explicação fica em texto corrido, com os "porque" e os "só que" à vista; definição, lista, definição é enciclopédia, e para isso o leitor não precisava de você.
+- **Escaneável.** Parágrafos curtos, de tamanhos variados (o artigo tolera um pouco mais que a página: até umas 80 palavras); passos em lista numerada; comparação em tabela; um negrito por bloco, no número ou na conclusão; sinalizadores ("Em números", "Na prática", "Resumindo") quando ajudam. O tempo de leitura no topo é opcional; calcule 265 palavras por minuto.
 - **Profundidade que ensina.** O leitor de hoje foge de promoção e prefere material que respeita a inteligência dele e resolve o problema. Suba a escada de valor: "por quê" < "o quê" < "como" < "feito para você". Ficar no porquê e no quê é o caminho fácil; o artigo forte mostra o como e, quando dá, entrega parte do trabalho (o modelo, a planilha, o roteiro).
 - **Nada de colagem dos primeiros resultados.** Juntar o que já está na busca não acrescenta nada (é o "Google goulash"). Cada artigo traz algo que só a empresa tem: um dado próprio, um caso, o erro que ela vê toda semana, uma opinião com evidência. Vale para rascunho feito com IA *(prática de mercado)*.
 - **Credibilidade** (o mercado chama de E-E-A-T: experiência, especialidade, autoridade, confiança). A base são três coisas:
@@ -184,6 +185,7 @@ As variações para teste são de título (H1) + primeira frase.
 - [ ] A abertura responde (ou dá o veredito) em até 3 linhas e diz por que importa, sem pigarro?
 - [ ] Lendo só o título, os H2, os negritos e os botões, o leitor sai com a resposta e sabe qual é o próximo passo?
 - [ ] O artigo ensina o "como" (ou entrega algo pronto) e traz algo que só a empresa tem?
+- [ ] Dentro das seções, o texto soa como o especialista explicando, com as frases ligadas, e a explicação não foi picada em tópicos?
 - [ ] O autor está identificado com a credencial? Todo número tem fonte, ou virou placeholder?
 - [ ] Há um próximo passo principal, do mesmo tema, no meio e no fim? O produto aparece sem transformar o artigo em folheto?
 - [ ] Os links internos dizem o que há do outro lado? A palavra-chave soa natural?
@@ -192,4 +194,4 @@ As variações para teste são de título (H1) + primeira frase.
 
 ## Referências da skill
 
-- **Referências:** `references/brevidade.md` §3–5 e §11; `references/meios-digitais.md` §5 (SEO de texto), §10 (artigo, blog, white paper e isca) e §14 (datado); `references/aberturas.md` §4, §6 e §7; `references/leitura-e-gatilhos.md` §6, §10 e §16; `references/corpo-do-texto.md` §13 (subestimação e tom editorial).
+- **Referências:** `references/voz-e-fluidez.md` (§2–7 e §9); `references/brevidade.md` §3–5 e §11; `references/meios-digitais.md` §5 (SEO de texto), §10 (artigo, blog, white paper e isca) e §14 (datado); `references/aberturas.md` §4, §6 e §7; `references/leitura-e-gatilhos.md` §6, §10 e §16; `references/corpo-do-texto.md` §13 (subestimação e tom editorial).

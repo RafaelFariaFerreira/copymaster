@@ -1,6 +1,6 @@
 # Brevidade: texto enxuto e escaneável — instruções para o agente
 
-> Instruções da skill para a **densidade, a escaneabilidade e a escolha das palavras**. O **tamanho** da peça, a **ordem dos argumentos** e a **oferta** continuam decididos pelo diagnóstico (SKILL.md §2–4) e pelas outras referências; cada seção diz como a regra vale para copy de venda, e a §13 diz qual regra vence quando há conflito. Os exemplos marcados *(ilustrativo)* foram criados para esta skill.
+> Instruções da skill para a **densidade, a escaneabilidade e a escolha das palavras**. O **tamanho** da peça, a **ordem dos argumentos** e a **oferta** continuam decididos pelo diagnóstico (SKILL.md §2–4) e pelas outras referências, e **como o texto corrido soa** (a ligação entre as frases, o ritmo, a voz) é de `voz-e-fluidez.md`; cada seção diz como a regra vale para copy de venda, e a §13 diz qual regra vence quando há conflito. Os exemplos marcados *(ilustrativo)* foram criados para esta skill.
 
 ## Quando ler este arquivo
 
@@ -34,6 +34,7 @@
   - **Humanidade:** escreva como fala, com emoção, voz e nuance.
   - **Clareza:** formate para impacto, fácil de varrer no tempo que o leitor tem.
 - **O que esta referência não decide:** quanto a peça precisa dizer (consciência, sofisticação, ceticismo), a ordem dos argumentos (arquitetura de crença) e a oferta. Ela decide quantas palavras cada coisa gasta e como ela aparece na tela.
+- **Ela manda na camada que se varre, não na que se lê.** Títulos, subtítulos, botões, negritos, tabelas, listas de consulta e FAQ seguem esta referência. O texto corrido de uma peça de venda segue `voz-e-fluidez.md`: frases ligadas, ritmo de fala, uma pessoa falando. Aplicar as regras daqui a cada frase do texto corrido (tudo curto, tudo em tópicos, cada bloco no mesmo molde) produz o texto robotizado que o leitor reconhece e descarta. Enxuto não é telegráfico.
 
 ## 2. Antes de escrever: um leitor, uma coisa
 
@@ -99,6 +100,7 @@ Todo bloco informativo tem quatro partes (Core 4). As três primeiras cabem na p
 | **Saiba mais** | Oferecer a profundidade | O detalhe para quem quiser; a decisão é do leitor (§4.3) |
 
 - **Teste dos três primeiros:** leia juntos o gancho, a primeira frase e o "por que importa". Se for tudo o que a pessoa ler, ela entende o que mais importa? Se não, reescreva os três antes de mexer no resto.
+- **Em copy de venda, os quatro elementos são um teste, não um molde.** Valem como forma em newsletter, artigo de busca, FAQ e e-mail informativo. Numa página ou carta de vendas, use-os para conferir se o ponto e o porquê de cada bloco estão claros; a forma do bloco segue o conteúdo (narrativa, tabela, passos, uma frase e um botão). Página em que toda seção abre com o fato, emenda o porquê e fecha em três bullets vira uma pilha de cartões (`voz-e-fluidez.md` §9).
 
 ### 4.1 "Por que importa"
 
@@ -135,13 +137,15 @@ O sinalizador (Axiom) é um rótulo curto em negrito que funciona como sinaliza�
 ## 5. Formatar para quem passa os olhos
 
 - **Regra de ouro dos bullets:** três ou mais dados ou ideias relacionadas viram lista. O espaço em volta faz cada item saltar.
+  - **Em copy de venda, lista é para consulta:** o que está incluso, passos, requisitos, especificações, números de prova. Argumento, história, explicação do mecanismo e resposta a objeção ficam em texto corrido, porque em tópicos somem os "porque" e os "mas" que fazem o leitor acreditar. Teste: se os itens podem trocar de ordem, é lista; se um leva ao outro, é texto.
 - **Uma ideia por bullet**, começando por verbo ativo ou substantivo concreto. Vários pontos misturados num item fazem o leitor perder todos.
-- **Bullets paralelos:** a mesma estrutura gramatical em todos os itens dá ritmo e ajuda a lembrar. *(ilustrativo)* "Você agenda em 1 minuto. Você confirma pelo WhatsApp. Você paga só na consulta."
+- **Bullets paralelos:** a mesma estrutura gramatical em todos os itens dá ritmo e ajuda a lembrar. *(ilustrativo)* "Você agenda em 1 minuto. Você confirma pelo WhatsApp. Você paga só na consulta." Vale para lista de consulta. Em passos e benefícios que carregam argumento, a mesma moldura repetida ("Por isso você…" em todos) é o que mais soa texto de fábrica: diga o ganho de cada item de um jeito.
 - **Dado começa pelo número:** numa lista de provas, um bullet por número, com o número na frente ("48 h para a primeira entrega"), não diluído numa frase. Os números da peça vêm do briefing ou viram placeholder.
 - **Antes de cortar, reformate.** Os mesmos dados numa lista, um por linha, vencem o parágrafo com os mesmos dados; um diagrama ou uma tabela pode substituir parágrafos inteiros de explicação.
 - **Instrução = a ação do leitor + passos numerados.** O título diz o que ele vai fazer ("Como agendar em 3 passos"), cada passo começa por verbo, e o motivo da empresa cabe numa frase. Caso especial ganha bloco próprio; o resto vira "saiba mais".
 - **Negrito** nos sinalizadores e no número, nome ou frase que precisa sobreviver à leitura em diagonal. Ele se vê mais que o itálico. Parte dos leitores lê só os negritos: ponha ali o que ele precisa entender. No máximo um trecho por bloco, ou o negrito perde o efeito. Em texto longo, abrir cada parágrafo com uma frase curta em negrito, que funcione como minititulo, deixa o resumo legível só pelos negritos.
 - **Parágrafos de duas ou três frases, no máximo**, e nada de sequências longas de parágrafos: quebre com bullet, negrito, sinalizador, imagem ou gráfico.
+  - **Em copy de venda, meça pelo espaço na tela, não em frases:** o que se evita é o paredão (no celular, umas 8 palavras por linha; parágrafo em geral abaixo de 50 palavras, nunca acima de 60). Quatro frases curtas e emendadas cabem em três linhas e se leem melhor do que duas compridas. Varie os tamanhos e quebre onde quem fala respiraria (`voz-e-fluidez.md` §5). Uma sequência de parágrafos de texto corrido não é defeito quando um puxa o outro.
 - **Numere, anuncie o total e diga quanto tempo leva** ("são 3 motivos", "5 itens nesta edição", "leva 2 minutos"). Saber o que vem acalma o leitor e mostra que você sabe para onde vai. Em newsletter e artigo, ponha as palavras ou os minutos no topo (conte cerca de 265 palavras por minuto).
 - **Cuide do visual:** fonte legível, tamanho confortável, uma família de fonte, espaço em branco. Layout poluído afasta antes da primeira palavra.
 - **Responda destacando.** Quando o cliente manda perguntas (e-mail ou WhatsApp de pré-venda), repita cada pergunta e responda logo abaixo, com a resposta em negrito. Instrução vai em passos, sem saudação de enchimento.
@@ -156,8 +160,8 @@ O sinalizador (Axiom) é um rótulo curto em negrito que funciona como sinaliza�
 - **Troque a palavra nebulosa** ("pode", "poderia", "talvez") pelo estado real das coisas: já está decidido, em teste, só em conversa? É previsto ou é um risco? Em copy, diga o processo concreto ou o número com a ressalva real, ou corte a frase. Em setor regulado, não troque "pode" por garantia (§13).
 - **Voz ativa.** A passiva apaga quem age ("foi realizada uma melhoria") e deixa a frase com cara de relatório.
 - **Narre o fato em vez de anunciar que há um fato a narrar.** "Temos um caso incrível para contar" não é história; a cena é.
-- **Frases curtas e secas ficam na memória:** sujeito e verbo, às vezes só isso ("As faltas acabaram."). Reserve para o ponto que precisa ficar; em toda frase, cansa.
-- **Se cabe em uma frase, não use duas.** O rigor que vale para a palavra vale em dobro para a frase e em triplo para o parágrafo. Uma frase curta e concreta dura anos na cabeça do leitor; a grande ideia e o slogan precisam disso.
+- **Frases curtas e secas ficam na memória:** sujeito e verbo, às vezes só isso ("As faltas acabaram."). Reserve para o ponto que precisa ficar; em toda frase, cansa e soa telegrama. A curta ganha força da frase comprida que veio antes.
+- **Se cabe em uma frase, não use duas** (e, no sentido inverso, não quebre em duas afirmações secas o que é um raciocínio só: a causa e a consequência ficam na mesma frase, ligadas por "porque", "só que", "então"). O rigor que vale para a palavra vale em dobro para a frase e em triplo para o parágrafo. Uma frase curta e concreta dura anos na cabeça do leitor; a grande ideia e o slogan precisam disso.
 - **Sem frase de advogado.** O leitor percebe na hora a frase polida pelo jurídico e o enrolar corporativo, e deixa de confiar. Diga com franqueza. A ressalva legal obrigatória fica, clara e curta; sai o rodeio em volta dela.
 - **Humildade e franqueza** quando a peça fala por um fundador ou líder: reconhecer onde errou, agradecer e não se levar tão a sério aproxima. Em marca pessoal, isso é identificação.
 
@@ -204,7 +208,8 @@ Palavras em português são mais longas que em inglês: não persiga monossílab
 
 ## 8. Cortar sem ficar raso
 
-- **Corte pela metade.** Escreva e depois tente eliminar metade das palavras; cada passada melhora o texto. Na revisão da skill, a meta mínima é 30% por bloco (SKILL.md §6): mire na metade e pare quando a substância começar a sair.
+- **Corte pela metade.** Escreva e depois tente eliminar metade das palavras; cada passada melhora o texto. A meta vale para rascunho despejado: num texto já enxuto, forçar o número produz telegrama (SKILL.md §6). Pare quando a substância ou a ligação começarem a sair.
+- **O que não se corta:** os conectivos ("e", "mas", "só que", "aí", "porque"), a palavra que retoma a frase anterior e a ponte entre blocos. Parecem sobra na contagem e são o que faz a frase seguinte ser lida.
 - **Cada palavra cortada devolve tempo ao leitor.** Trate o corte como um favor a ele, não como perda sua: quem respeita o tempo do leitor ganha a confiança dele e volta a ser lido.
 - **Corte primeiro:** palavra mole, ressalva comprida, digressão, contexto que o leitor já tem, explicação do óbvio, repetição sem informação nova, saudação de enchimento.
 - **Pergunte, ponto por ponto:** isto é essencial? Se é, existe um jeito mais simples de dizer?
@@ -213,8 +218,8 @@ Palavras em português são mais longas que em inglês: não persiga monossílab
 - **Depois do corte, faça as três checagens** (o corte costuma passar do ponto):
   1. **Preciso:** tudo o que sustenta o ponto continua lá? O que faltar volta. Em copy, confira número, prova, ressalva legal e condição da oferta.
   2. **Coeso:** leia de ponta a ponta; onde o texto salta de um assunto a outro sem aviso, reponha a ponte. Em copy, são as pontes que carregam o embalo.
-  3. **Humano:** soa como uma pessoa falando com outra? Se soa como telegrama, você passou do ponto: devolva calor e ritmo. Em copy, a emoção faz parte do argumento.
-- **Erros comuns:** cortar a prova para encurtar; cortar a ponte entre blocos; transformar toda frase em fragmento; tirar a ressalva que o setor exige.
+  3. **Humano:** soa como uma pessoa falando com outra? Se soa como telegrama, você passou do ponto: devolva calor e ritmo. Em copy, a emoção faz parte do argumento. Na skill, esta checagem é o **passe de voz**, sempre o último (`voz-e-fluidez.md` §10).
+- **Erros comuns:** cortar a prova para encurtar; cortar a ponte entre blocos; cortar os conectivos; transformar toda frase em fragmento; tirar a ressalva que o setor exige.
 
 ## 9. Adaptar ao meio
 
@@ -325,8 +330,8 @@ Eyebrow, H1, subheadline, botão e microcopy cabem na primeira tela. Se não cab
 
 - **As primeiras palavras de cada linha carregam o ponto.** Comece o H1, o título e o bullet pelo benefício, pelo número ou pelo fato; nunca por "Conheça", "Descubra", "Apresentamos" ou "A solução que…".
 - **No FAQ, a resposta vem primeiro** (BLUF): "Sim.", "Não.", "R$ 90 por mês.", "Em 7 dias."; o porquê vem depois.
-- **Parágrafos de 1 a 3 frases.** No celular, quatro frases viram paredão.
-- **Página longa é uma sequência de blocos curtos.** Entre duas quebras visuais (título, lista, imagem, depoimento, botão), mantenha o texto corrido em torno de 150 a 200 palavras no máximo.
+- **Parágrafos curtos, de tamanhos variados.** No celular, o paredão começa por volta da sexta ou sétima linha (umas 50 a 60 palavras); meça pelo espaço na tela, não em frases.
+- **Página longa é uma conversa só, cortada em blocos curtos.** Entre duas quebras visuais (título, lista, imagem, depoimento, botão), mantenha o texto corrido em torno de 150 a 200 palavras no máximo, e faça cada bloco começar de onde o anterior parou (`voz-e-fluidez.md` §9).
 - **Uma ação por página**, repetida ao longo dela. Nada de "Fale conosco", "Baixe o e-book" e "Siga no Instagram" ao lado do CTA. Dois canais para a mesma ação (formulário e WhatsApp) não são duas ações.
 - **Vídeo na página:** curto e opcional; o argumento não pode depender do play. A exceção é a VSL, em que o vídeo é a peça.
 - **Tempo de leitura:** em artigo e newsletter, sim; no topo de página de venda, não (anuncia esforço); no formulário, sim.
@@ -349,11 +354,11 @@ Eyebrow, H1, subheadline, botão e microcopy cabem na primeira tela. Se não cab
 - [ ] Cada bloco tem o ponto, o "por que importa" sem redundância e o detalhe para quem quiser? O argumento de venda está no fluxo, não escondido no "saiba mais"?
 - [ ] Os títulos de seção dizem o ponto, não o nome da seção? A subheadline acrescenta ao H1?
 - [ ] O caminho de quem passa os olhos (título, subtítulos, negritos, botões) conta a promessa, a prova e a ação?
-- [ ] Algum parágrafo passa de 3 frases? Alguma lista de 3+ itens está escondida dentro de um parágrafo? Os bullets são paralelos e começam forte? Os dados começam pelo número?
+- [ ] Algum parágrafo vira paredão na tela do celular? Alguma lista de consulta de 3+ itens está escondida dentro de um parágrafo, ou algum argumento foi picado em bullets? Os bullets começam forte? Os dados começam pelo número?
 - [ ] O negrito aparece no máximo uma vez por bloco, no que precisa sobreviver?
 - [ ] Sobrou palavra de 10 reais, corporativês, nominalização, passiva, nebulosa ou pigarro (§7)?
 - [ ] Há uma ação só (com até dois canais para ela)?
-- [ ] **Passe de corte:** tirou ao menos 30% de cada bloco? Depois: **preciso** (nenhuma prova, número, condição ou ressalva legal sumiu), **coeso** (as pontes continuam), **humano** (a voz continua)?
+- [ ] **Passe de corte:** saiu o que não trabalha, sem levar conectivos e pontes? Depois: **preciso** (nenhuma prova, número, condição ou ressalva legal sumiu), **coeso** (as pontes continuam), **humano** (o passe de voz veio por último)?
 - [ ] O formato respeita o meio (§9): assunto de ~6 palavras, slide de uma mensagem, item de newsletter de até 200 palavras, gráfico com título que afirma?
 - [ ] Algum descritor de identidade sobra? A peça passa no teste da troca?
 
@@ -368,7 +373,10 @@ Estas são as leituras erradas que fazem a brevidade brigar com as referências 
 | "Nunca seja enigmático" proíbe os leads de Segredo e História. | Esta referência condena o gancho que não se decifra ou só é espertinho. O Segredo é específico e benéfico desde o título: o leitor sabe o que ganha, só não sabe como. A História começa no conflito, com palavras concretas. Os dois passam no "você leria?". | `aberturas.md`, com o teste "você leria?" desta referência |
 | "A primeira frase sempre entrega o ponto" × escorregador. | Em títulos, intertítulos, negritos, botões, FAQ, e-mail de quem pediu, artigo de busca e B2B, o ponto vem primeiro. No texto corrido para leitor frio (advertorial, VSL, lead de História), a frase pode montar a cena e puxar a próxima. | Esta referência na camada que se varre; `leitura-e-gatilhos.md` no texto corrido frio |
 | "Repetir a promessa é redundância." | A intensificação volta ao mesmo desejo com cenário, ator, tempo ou ângulo novos; o fechamento retoma a promessa da abertura; esta própria referência manda repetir a grande ideia no fim de uma fala. Redundante é repetir sem informação nova (a subheadline que parafraseia o H1, o "por que importa" que repete a primeira frase). | `corpo-do-texto.md` e SKILL.md (fechamento) |
-| "Tire as transições para encurtar." | O embalo depende das pontes, e esta própria referência manda devolvê-las (checagem "coeso"). | `corpo-do-texto.md`; `leitura-e-gatilhos.md` |
+| "Tire as transições para encurtar." | O embalo depende das pontes, e esta própria referência manda devolvê-las (checagem "coeso"). Conectivos e retomadas não entram na meta de corte. | `corpo-do-texto.md`; `leitura-e-gatilhos.md`; `voz-e-fluidez.md` |
+| "Texto enxuto é feito de frases curtas e bullets." | Vale para a camada que se varre. No texto corrido, frase curta em série e argumento em tópicos soam texto de fábrica. A frase tem o tamanho da ideia, e as frases se ligam. | `voz-e-fluidez.md` no texto corrido; esta referência em títulos, botões, listas de consulta e FAQ |
+| "Todo bloco segue os quatro elementos." | São teste, não molde (§4). Em peça de venda, a forma do bloco segue o conteúdo, e as seções não têm todas a mesma planta. | `voz-e-fluidez.md` §9 |
+| "Parágrafo de até 3 frases." | Meça em linhas na tela. O que se evita é o paredão, não a quarta frase curta. | `voz-e-fluidez.md` §5; o guia do formato dá o teto |
 | "O H1 tem no máximo 6 palavras." | As 6 palavras valem para assunto de e-mail, post e texto na tela. No H1, são pressão, não teto: em português, artigos e preposições alongam, e Proclamação ou História às vezes pedem mais. Cada palavra precisa conquistar o lugar. | `aberturas.md` no conteúdo; esta referência na pressão |
 | "Troque todo 'pode' por uma afirmação." | Em saúde, finanças e suplementos, isso transforma cautela em promessa garantida, o que é proibido. Troque a névoa pelo processo concreto ou pela ressalva real do briefing. | Ética e regulação (SKILL.md) |
 | "A grande ideia pode ser uma pergunta." | A grande ideia é afirmação. Uma seção pode abrir com pergunta de inclusão, cuja resposta óbvia é "sim", mas o ponto vem logo depois. | Esta referência na grande ideia; `estrategia.md` na seção |

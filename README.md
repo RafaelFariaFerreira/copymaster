@@ -2,7 +2,7 @@
 
 # copymaster
 
-Skill para o Claude escrever **copy de resposta direta em português do Brasil**: landing pages, sites institucionais, e-mails, prospecção fria, roteiros de vídeo, VSL, artigos e advertoriais. Ela não sai escrevendo: primeiro diagnostica o público e o mercado, depois decide a abertura, a estrutura e a oferta, e só então redige, no formato do canal.
+Skill para o Claude escrever **copy de resposta direta em português do Brasil**: landing pages, sites institucionais, e-mails, prospecção fria, roteiros de vídeo, VSL, artigos e advertoriais. Ela não sai escrevendo: primeiro diagnostica o público e o mercado, depois decide a abertura, a estrutura e a oferta, e só então redige, no formato do canal. E redige como quem fala: o texto sai da conversa que alguém do negócio teria com um cliente, com uma frase puxando a outra, e não de blocos preenchidos.
 
 > *English summary:* a Claude skill that writes direct-response copy in Brazilian Portuguese for landing pages, websites, marketing and cold e-mail (plus LinkedIn and WhatsApp outreach), video ads, video sales letters, articles and advertorials. It runs a short strategic diagnosis (awareness level, market sophistication, pain × pleasure angle, skepticism, entry offer) before writing, based on direct-response classics (Eugene Schwartz, Masterson & Forde, Joseph Sugarman, Robert Bly, Alex Hormozi) and Axios' *Smart Brevity*. Each format has its own guide.
 
@@ -38,7 +38,7 @@ A maioria das peças de venda segue a mesma espinha. Cada formato estica ou comp
 Para cada pedido, uma resposta neste formato:
 
 1. **Diagnóstico** em tabela: desejo dominante, ângulo (fuga da dor × busca do prazer), nível de consciência, sofisticação do mercado, ceticismo e oferta de entrada, cada um com a implicação para a peça.
-2. **Grande ideia, tipo de abertura (lead) e estrutura** da peça.
+2. **Grande ideia, tipo de abertura (lead), voz e estrutura** da peça. A voz diz quem fala, com quem e em que registro (conversa de balcão, reunião entre pares, a explicação de uma consulta).
 3. **A peça pronta para colar**, no formato do canal: seções da página, assunto e corpo de cada e-mail, cadência de prospecção por canal, roteiro em tabela com tempo, fala e texto na tela, artigo com título e meta description.
 4. **3 a 5 variações da abertura** para teste A/B (H1, assunto, gancho, título). Pelo menos uma usa o ângulo oposto, para você descobrir se o seu mercado responde mais à dor ou ao prazer.
 5. **Antes de publicar:** placeholders a preencher, suposições feitas e até 3 recomendações.
@@ -52,6 +52,7 @@ Quando você cola um texto existente, ela também aponta o que está errado nele
 - **Setores regulados** (saúde, finanças, advocacia, suplementos): promete o processo e o cuidado, não o resultado garantido, e avisa quando uma frase precisa de revisão (CDC, CONAR, conselhos profissionais).
 - **Regras do canal:** advertorial identificado como publicidade, prospecção com origem do contato e saída fácil (LGPD), anúncio sem afirmar condição pessoal do espectador (políticas das plataformas).
 - **Sem marketês e sem enrolação:** troca "soluções completas" e "Em um mundo cada vez mais competitivo…" por fatos, números e cenas.
+- **Texto que soa como gente falando.** O texto corrido é escrito como fala e só depois formatado: as frases se ligam ("mas", "só que", "porque", "aí"), o argumento fica em parágrafos e a lista fica para o que é consulta. Ela evita os tiques de texto montado (o contraste "Não é X. É Y.", a tríade automática, os fragmentos em série, a mesma moldura em todos os itens) e também a oralidade de fantasia. Fluido não é informal: para B2B e setor regulado o tom continua sóbrio. O último passe de revisão é sempre o de voz.
 
 ## Instalação
 
@@ -119,6 +120,7 @@ copymaster/
 │   ├── artigo.md
 │   └── advertorial.md
 ├── references/           # o método, organizado por tema; lido sob demanda
+│   ├── voz-e-fluidez.md      # quem fala, como uma frase puxa a outra, ritmo, tiques de texto montado, passe de voz
 │   ├── aberturas.md          # os 6 tipos de abertura, a Regra do Um, o lead em cada formato
 │   ├── estrategia.md         # desejo, consciência, sofisticação, ponto de entrada, verbalização
 │   ├── corpo-do-texto.md     # crença, benefícios, mecanismo, objeções, prova, camuflagem
@@ -138,12 +140,13 @@ As ilustrações deste README ficam em `docs/` e saem do script `docs/gerar_imag
 
 ## Testes
 
-A pasta `evals/` tem 11 casos realistas, cada um com critérios verificáveis:
+A pasta `evals/` tem 12 casos realistas, cada um com critérios verificáveis. Além do conteúdo, os casos cobram a voz: frases ligadas, argumento em texto corrido, nenhum tique de texto montado repetido.
 
 | Caso | O que testa |
 |---|---|
 | `briefing-insuficiente-pergunta` | Pedido vago: a skill pergunta antes de escrever, em vez de inventar |
 | `fisioterapia-trafego-frio` | Landing page de saúde para público frio: abertura pelo problema, razão da avaliação grátis, sem promessa de cura |
+| `reescrever-email-robotizado` | E-mail de venda com cara de robô: aponta os padrões de texto montado, reescreve na voz de quem assina, sem inventar nada para soar humano |
 | `reescrever-home-contabilidade` | Reescrita de uma home cheia de marketês, usando as provas reais do briefing com as ressalvas |
 | `saas-estoque-busca-google` | Landing page de SaaS B2B com tráfego de busca: comparação, "como funciona", preço ancorado |
 | `email-sequencia-lancamento` | Sequência de lançamento para lista própria: calendário, assunto e pré-cabeçalho, urgência pelo prazo real |
@@ -163,11 +166,11 @@ claude plugin eval . --allow-tools Write,Edit,Bash
 
 ### Última avaliação
 
-A última rodada medida cobriu só as landing pages (3 casos, 1 execução por configuração), ainda com o nome anterior da skill: as respostas **com a skill** cumpriram **94%** dos critérios, contra **55%** **sem a skill**. Os formatos novos ainda não foram medidos.
+A última rodada medida cobriu só as landing pages (3 casos, 1 execução por configuração), ainda com o nome anterior da skill: as respostas **com a skill** cumpriram **94%** dos critérios, contra **55%** **sem a skill**. Os formatos novos e os critérios de voz, que entraram depois, ainda não foram medidos.
 
 ## De onde vem o método
 
-Os arquivos de `references/` transformam o método de cada livro em instruções para o agente, escritas do zero em português: não reproduzem trechos dos livros nem os exemplos deles (anúncios, headlines, casos), e os exemplos que aparecem foram criados para a skill e vêm marcados como ilustrativos. Os guias em `formatos/` aplicam esse método a cada peça. O que os livros não cobrem (detalhes atuais de LinkedIn, WhatsApp e vídeo curto) vem marcado como prática de mercado. Nada disso substitui os livros, e este projeto não tem relação com os autores nem com as editoras. Se a skill for útil para você, leia os originais:
+Os arquivos de `references/` transformam o método de cada livro em instruções para o agente, escritas do zero em português: não reproduzem trechos dos livros nem os exemplos deles (anúncios, headlines, casos), e os exemplos que aparecem foram criados para a skill e vêm marcados como ilustrativos. Os guias em `formatos/` aplicam esse método a cada peça. A exceção é `voz-e-fluidez.md`, que não vem de um livro: reúne a prática de ofício da carta de vendas, do roteiro e do e-mail pessoal sobre como o texto soa. O que os livros não cobrem (detalhes atuais de LinkedIn, WhatsApp e vídeo curto) vem marcado como prática de mercado. Nada disso substitui os livros, e este projeto não tem relação com os autores nem com as editoras. Se a skill for útil para você, leia os originais:
 
 - Eugene M. Schwartz, *Breakthrough Advertising* (1966): desejo de massa, níveis de consciência, sofisticação de mercado.
 - Michael Masterson e John Forde, *Great Leads: The Six Easiest Ways to Start Any Sales Message* (2011): os seis tipos de lead e a Regra do Um.

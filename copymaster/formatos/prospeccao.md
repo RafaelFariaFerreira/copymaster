@@ -84,7 +84,8 @@ ex.: cold mail de uma consultoria de frete para lojas virtuais (~95 palavras):
 ## 5. Regras de redação próprias do formato
 
 - **De uma pessoa para uma pessoa.** "Eu", o nome de quem assina, a assinatura completa; nada de "Nós da X, líder em…". Estilo B2B: claro, factual, conversacional, com expectativas realistas no lugar de promessas infladas.
-- **Diga e pare.** Diga o que quer e pare: quem esconde o ponto em orações subordinadas perde a confiança do leitor. O leitor ocupado quer saber que aquilo vai tomar só três minutos. Gente ocupada responde melhor a texto curto, e a peça que só leva a uma conversa pode ser curta.
+- **Soa digitado por uma pessoa, não saído de um modelo.** É o que você diria em vinte segundos a alguém que não conhece: o motivo do contato emenda no problema, que emenda no pedido. Frases que serviriam para qualquer destinatário, em fila e sem ligação, são a marca da automação, e quem recebe dez dessas por semana reconhece na primeira linha (`references/voz-e-fluidez.md` §4 e §7).
+- **Diga e pare.** Diga o que quer e pare: quem esconde o ponto em orações subordinadas perde a confiança do leitor. Vale para o pedido e para a primeira linha; não é licença para a mensagem inteira em frases secas. O leitor ocupado quer saber que aquilo vai tomar só três minutos. Gente ocupada responde melhor a texto curto, e a peça que só leva a uma conversa pode ser curta.
 - **Personalização que só serve para ele.** Uma frase que não daria para mandar a mais ninguém vale mais que dez campos `{empresa}`. A personalização compensa sobretudo com executivos de cargo alto, e repetir o nome do leitor soa falso.
 - **Um problema, um pedido** (Regra do Um, SKILL.md). O pedido é uma pergunta de resposta fácil, com opções concretas. ex.: "Vale 15 minutos na terça ou na quinta à tarde?" ou "Posso te mandar como funcionou na [CLIENTE]? São 4 linhas." "Faz sentido?" sozinho é fraco.
 - **Uma prova, curta, do briefing, com a ressalva dela.** Nada de "líder", "o melhor", "referência": troque por um fato. Se o cliente citado não autorizou o nome, use o setor e a cidade ("uma clínica de [N] cadeiras em [BAIRRO]").
@@ -163,9 +164,10 @@ Texto pronto para colar, com [GATILHO] e [NOME] onde mudam.
 - [ ] Cada canal tem uma saída fácil, e a origem do contato aparece?
 - [ ] A cadência tem datas, e cada follow-up acrescenta algo novo? O último é educado e fecha a porta sem bater?
 - [ ] Nenhuma mensagem usa "Re:" falso ou finge uma conversa que não aconteceu?
+- [ ] Cada mensagem soa escrita por uma pessoa para aquela pessoa, no registro do canal, ou parece um modelo com campos preenchidos?
 - [ ] Você responderia a esta mensagem se a recebesse de um desconhecido no meio de uma terça-feira cheia?
 
 ## Referências da skill
 
-- **Referências:** `references/aberturas.md` §3–5 (a pergunta simples, direto × indireto, o leitor cético); `references/fundamentos.md` §3 (B2B), §8 (carta de uma pessoa para outra) e §11 (sem compromisso, o "agora não"); `references/meios-digitais.md` §8 (LinkedIn); `references/brevidade.md` §2, §4, §5 e §9; `references/leitura-e-gatilhos.md` §10; `references/aplicacao-por-meio.md` §8; `references/ofertas.md` §1 e §3; `references/estrategia.md` §2 e §5.
+- **Referências:** `references/voz-e-fluidez.md` (§2, §4 e §7); `references/aberturas.md` §3–5 (a pergunta simples, direto × indireto, o leitor cético); `references/fundamentos.md` §3 (B2B), §8 (carta de uma pessoa para outra) e §11 (sem compromisso, o "agora não"); `references/meios-digitais.md` §8 (LinkedIn); `references/brevidade.md` §2, §4, §5 e §9; `references/leitura-e-gatilhos.md` §10; `references/aplicacao-por-meio.md` §8; `references/ofertas.md` §1 e §3; `references/estrategia.md` §2 e §5.
 - **Prática de mercado**: gatilhos, cadência e intervalos, regras de LinkedIn e WhatsApp; LGPD (arts. 7º, 9º, 10, 18 e 19) e o guia da ANPD sobre legítimo interesse.

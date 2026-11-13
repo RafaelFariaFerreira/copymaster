@@ -402,7 +402,7 @@ Quando o produto funciona e é fácil, mas o apelo é estreito, aumente a import
 
 ### 12.2 Embalo: fazer ler a próxima frase
 - Texto que não é lido não vende. Quanto mais tempo você leva para construir desejo e crença, mais impulsionadores de leitura precisa.
-- **Frases de embalo**, sobretudo nas transições. Elas avisam que tipo de material vem e não deixam o interesse cair. Soam gastas e mesmo assim funcionam; em texto longo, espalhe-as pelo corpo todo. Em português: "Explico.", "Funciona assim:", "Um exemplo concreto:", "Repare no detalhe:", "Tem mais.", "Veja o que muda na primeira semana:", "Mas isso é só o começo.", "Agora, a parte que mais importa."
+- **Frases de embalo**, sobretudo nas transições. Elas avisam que tipo de material vem e não deixam o interesse cair. Soam gastas e mesmo assim funcionam; em texto longo, espalhe-as pelo corpo todo, sem repetir a mesma. A melhor é a que a pessoa diria naquele ponto e só caberia naquele texto ("E é aqui que a planilha para de dar conta."); a fórmula pronta entra quando não há outra. O embalo de verdade está na ligação de cada frase com a anterior (`voz-e-fluidez.md` §4). Em português: "Explico.", "Funciona assim:", "Um exemplo concreto:", "Repare no detalhe:", "Tem mais.", "Veja o que muda na primeira semana:", "Mas isso é só o começo.", "Agora, a parte que mais importa."
 - **Afirmações incompletas (*teasers*)**, em três passos: (1) desperte interesse num ponto específico; (2) faça surgir a pergunta "como isso é possível?"; (3) dê a entender que a resposta vem adiante. Cada uma também vende: dois objetivos no mesmo elemento, nenhuma palavra desperdiçada.
   *(ilustrativo)* "E tudo isso com o celular que você já tem e a planilha que você já usa."
 - Pague toda promessa de curiosidade no bloco seguinte.
@@ -417,7 +417,7 @@ Quando o produto funciona e é fácil, mas o apelo é estreito, aumente a import
 
 | Clima | Como se faz | Quando |
 |---|---|---|
-| Martelada | frases curtas em série, verbo atrás de verbo, promessa atrás de promessa; palavras de potência; tom franco de igual para igual, sem frescura | desejo forte, produto de transformação, leitor que quer energia |
+| Martelada | frases curtas em série, verbo atrás de verbo, promessa atrás de promessa; palavras de potência; tom franco de igual para igual, sem frescura | desejo forte, produto de transformação, leitor que quer energia; em um ou dois picos da peça, não como estilo do texto inteiro (`voz-e-fluidez.md` §5) |
 | Sinceridade contida | ausência de adjetivos onde o leitor os espera; leve autoironia, que gera simpatia e depois confiança | público sofisticado e cético; marca com campanha contínua |
 | Franqueza sem polimento | frases menos "redondas", sem cara de redator; vocabulário direto | B2B, técnico, e-mail de fundador: quando parecer avaliação honesta importa mais que parecer anúncio |
 
@@ -510,7 +510,8 @@ Três maneiras:
 | Benefício mais forte no topo | a promessa mais forte nem sempre é o melhor título (prontidão para aceitar) | `fundamentos.md`: abra com o maior benefício | Vence a tabela de leads do SKILL.md; a regra de `fundamentos.md` vale para leitor consciente do produto ou da solução. |
 | Onde vai a prova | onde o leitor a pede | `meios-digitais.md`: depois da solução, em faixas seguidas | Um tipo de prova por bloco, cada um logo depois da afirmação que sustenta; barra de logos no topo é aceitável. |
 | Catálogo de benefícios | tiro de espingarda no fim | `aberturas.md`: Regra do Um | Compatíveis: uma ideia na abertura e no desenvolvimento; catálogo só no fim. |
-| Entrelaçar e clima | frase carregada de promessa, imagem e lógica; definidores de emoção | `brevidade.md`: frases curtas, palavras comuns, menos adjetivo | Entrelaçar é dar mais funções à frase, não mais palavras; se ela crescer, divida. Corte o definidor de emoção que o leitor notaria. |
+| Entrelaçar e clima | frase carregada de promessa, imagem e lógica; definidores de emoção | `brevidade.md`: frases curtas, palavras comuns, menos adjetivo; `voz-e-fluidez.md`: a frase que se diria | Entrelaçar é dar mais funções à frase, não mais palavras; se ela crescer além do que cabe num fôlego, divida em duas frases ligadas. Corte o definidor de emoção que o leitor notaria. |
+| Embalo e martelada | frases de embalo espalhadas; frases curtas em série | `voz-e-fluidez.md`: fórmula repetida e fragmento em série são tiques | Mesma técnica, com medida: a ponte própria do texto vence a fórmula, e a martelada fica para os picos. |
 | Perguntas de inclusão | abrir com perguntas de "sim" | `leitura-e-gatilhos.md`: harmonia ("sim, sim, sim"); políticas de anúncio (SKILL.md, §3) | É a mesma técnica de `leitura-e-gatilhos.md`. Em anúncio pago, nada de pergunta que afirme condição pessoal: use a versão impessoal. Em página, e-mail e mensagem a quem levantou a mão, use. |
 | Objeções | como reformular (redefinição) | `leitura-e-gatilhos.md`: quando e onde levantar, e quais nunca esquecer | Complementares: `leitura-e-gatilhos.md` decide o lugar; esta referência, a formulação. |
 | Desconto | todo corte de preço precisa de causa contada | `ofertas.md`: 50%+, sobre uma parte, referência conhecida | Somam-se: o limiar de `ofertas.md` e a causa antes do preço. |

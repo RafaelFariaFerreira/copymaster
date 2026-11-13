@@ -1,13 +1,15 @@
 ---
 name: copymaster
-description: 'Escreve copy de resposta direta em português do Brasil: landing pages, páginas de vendas e de captura, sites institucionais, e-mails e sequências de e-mail, prospecção fria (cold mail, LinkedIn, WhatsApp), roteiros de vídeo (anúncios, Reels, YouTube), VSL, artigos e advertoriais. Diagnostica público e mercado antes de escrever. Use sempre que o usuário pedir para escrever, reescrever, revisar ou melhorar um texto que precisa vender, gerar contatos ou levar a uma ação, mesmo que ele não diga "copy" (ex.: "faz o texto do meu site", "minha página não converte", "escreve uma sequência de e-mails de lançamento", "cria um cold mail pra prospectar clínicas", "roteiro de Reels pro meu anúncio", "script de VSL", "artigo pro blog que leve pro meu produto", "advertorial pra rodar no Meta", "write a sales email"). Não use para posts e legendas orgânicas de redes sociais nem para textos acadêmicos, técnicos ou literários.'
+description: 'Escreve copy de resposta direta em português do Brasil: landing pages, páginas de vendas e de captura, sites institucionais, e-mails e sequências de e-mail, prospecção fria (cold mail, LinkedIn, WhatsApp), roteiros de vídeo (anúncios, Reels, YouTube), VSL, artigos e advertoriais. Diagnostica público e mercado antes de escrever. Use sempre que o usuário pedir para escrever, reescrever, revisar ou melhorar um texto que precisa vender, gerar contatos ou levar a uma ação, mesmo que ele não diga "copy" (ex.: "faz o texto do meu site", "minha página não converte", "escreve uma sequência de e-mails de lançamento", "cria um cold mail pra prospectar clínicas", "roteiro de Reels pro meu anúncio", "script de VSL", "artigo pro blog que leve pro meu produto", "advertorial pra rodar no Meta", "meu e-mail de vendas tá com cara de robô, deixa mais humano", "write a sales email"). Não use para posts e legendas orgânicas de redes sociais nem para textos acadêmicos, técnicos ou literários.'
 ---
 
 # Copymaster: copy de resposta direta em português
 
 Esta skill transforma um briefing em peças de copy prontas para publicar, sempre precedidas de um diagnóstico estratégico curto. O método está em `references/`, em arquivos de instruções organizados por tema, e cada formato tem um guia próprio em `formatos/`.
 
-Este arquivo traz o que vale para qualquer peça: princípios, briefing, diagnóstico, abertura, técnicas de redação, revisão e ética. O guia do formato traz a estrutura, as regras do canal, o formato de entrega e o checklist daquela peça.
+Este arquivo traz o que vale para qualquer peça: princípios, briefing, diagnóstico, abertura, voz, técnicas de redação, revisão e ética. O guia do formato traz a estrutura, as regras do canal, o formato de entrega e o checklist daquela peça.
+
+O diagnóstico decide **o que** dizer e em que ordem. A voz decide **como isso soa**: a peça que converte parece uma pessoa falando, quase uma transcrição, com uma frase puxando a outra. As duas coisas valem em toda peça; técnica certa em texto montado não é lida.
 
 **Todo copy é escrito em português do Brasil**, mesmo que o briefing venha em outra língua.
 
@@ -40,7 +42,8 @@ Entender o porquê destes princípios importa mais do que segui-los como regra, 
 6. **Crença depende de estrutura.** A mesma afirmação verdadeira convence numa posição e falha em outra. Comece pelo que o leitor aceita sem pensar e construa a partir daí.
 7. **Especificidade é credibilidade.** "Responder WhatsApp de paciente às 23h" vende; "sobrecarga" não. Números exatos, nomes, prazos, cenas da rotina do cliente.
 8. **A oferta decide antes do texto.** Se a resposta está baixa, muitas vezes a oferta de entrada precisa ficar mais atraente, não o copy mais bonito.
-9. **Curto não é raso: cada palavra trabalha.** O diagnóstico decide quanto a peça precisa dizer; a brevidade decide quantas palavras cada coisa gasta. Uma peça longa sem nenhuma palavra sobrando é breve; uma peça curta sem prova é só rasa. E quase todo mundo passa os olhos antes de ler: quem lê só o título, os subtítulos, os negritos e os botões (ou, no vídeo, só o texto na tela) precisa sair sabendo a promessa, a prova e a ação.
+9. **Curto não é raso: cada palavra trabalha.** O diagnóstico decide quanto a peça precisa dizer; a brevidade decide quantas palavras cada coisa gasta. Uma peça longa sem nenhuma palavra sobrando é breve; uma peça curta sem prova é só rasa. E quase todo mundo passa os olhos antes de ler: quem lê só o título, os subtítulos, os negritos e os botões (ou, no vídeo, só o texto na tela) precisa sair sabendo a promessa, a prova e a ação. Enxuto não é telegráfico: o que se corta é o que não trabalha, e a palavra que liga uma frase à outra trabalha.
+10. **Copy é conversa escrita.** O leitor não lê uma página, ele ouve alguém. A peça que converte soa como a transcrição, limpa, da melhor conversa de venda que alguém do negócio teria com um cliente só: uma frase puxa a outra, com os "mas", os "porque" e os "aí" de quem raciocina em voz alta, e dá para saber quem está falando. Texto montado em blocos soltos (afirmação curta, afirmação curta, três bullets) entrega a informação e perde o leitor, porque nada o leva de uma frase à seguinte e porque ele reconhece na hora a cara de anúncio. Títulos, botões e tabelas organizam a conversa; não a substituem.
 
 ## Processo
 
@@ -88,7 +91,7 @@ Atenção a duas confusões comuns: **consciência e sofisticação são eixos d
 
 Quando a peça atende mais de um segmento (um site, uma página que fala com empresas e com empregados), o diagnóstico sai para o segmento principal, e cada segmento secundário ganha uma linha com o nível de consciência dele e o caminho que o leva à sua própria seção ou página.
 
-### 3. Grande ideia, abertura e ângulo
+### 3. Grande ideia, abertura, ângulo e voz
 
 **Grande ideia:** escreva numa frase o que a peça inteira vai provar — um desejo, uma promessa e o motivo para acreditar. Teste: ela é grande o bastante para interessar, fácil de entender, convincente de imediato, útil e, acima de tudo, fácil de acreditar? Essa frase é o "fio de ouro": cada bloco da peça precisa se ligar a ela, e o pedido final a retoma. Escreva-a como afirmação, não como pergunta, curta o bastante para alguém repetir depois de ouvir uma vez. Dois atalhos ajudam:
 - escreva primeiro a "versão de WhatsApp", como o dono explicaria o produto a um amigo em duas frases; a grande ideia, e às vezes a abertura, costuma estar ali;
@@ -143,6 +146,13 @@ Perder pesa mais do que ganhar o equivalente (aversão à perda). Por isso, em m
   - toda dor nomeada aponta, logo em seguida, para uma saída concreta.
 - **Teste.** Uma das variações de abertura usa o ângulo oposto ao da versão principal, e ela começa de fato pelo ganho (ou pela dor): trocar só o rótulo não basta. Se o usuário tem dados de qual ângulo converte no mercado dele, esses dados valem mais do que esta heurística.
 
+**Voz** (decide *quem fala* e *como soa*). Antes da primeira linha, responda a três perguntas e anote a resposta na linha **Voz** da entrega:
+- **Quem fala?** Uma pessoa, não "a empresa": o dono, a fundadora, o especialista que atende, quem assina o e-mail. Se o briefing não nomeia ninguém, a marca fala como alguém da equipe ("a gente", "eu e os outros dois fisioterapeutas"), com o nome em placeholder. Nunca invente a pessoa nem a história dela.
+- **Com quem?** Um indivíduo só, o do segmento principal do diagnóstico, tratado por "você".
+- **Onde?** A cena em que essa conversa aconteceria de verdade: o balcão, o consultório depois do exame, o café com um colega de profissão, a sala de reunião, o áudio de WhatsApp, o palco. A cena dá o registro: conversa de balcão para consumidor e negócio local ("pra", "a gente", pergunta direta); reunião entre pares para B2B e público técnico (sem coloquialismo, com "porque", "por isso", "ainda assim"); a explicação de uma consulta para advocacia, medicina e finanças (sóbria, com as ressalvas ditas com naturalidade).
+
+O registro muda; a ligação entre as frases, não. Em qualquer um deles, a peça precisa soar dita por essa pessoa a esse ouvinte. Tabela de registros em `references/voz-e-fluidez.md` (§2).
+
 ### 4. Estrutura e tamanho
 
 A ordem dos blocos **é** a arquitetura de crença: cada bloco começa com algo que o leitor aceita sem resistência e termina abrindo o próximo. A espinha da maioria das peças de venda é a mesma, e cada guia de formato a adapta ao seu espaço:
@@ -160,6 +170,14 @@ Se esses testes divergirem do diagnóstico (leitor consciente, mas compra cara),
 **Teste da próxima pergunta**: depois do rascunho, anote ao lado de cada bloco a pergunta que o leitor faz ao terminá-lo. O bloco seguinte precisa respondê-la. Pergunta sem resposta vira bloco, item de FAQ ou assunto da próxima peça da sequência.
 
 ### 5. Técnicas de redação (valem para todos os formatos)
+
+**Voz e fluxo: escreva falando** — vale para todo texto corrido, de qualquer peça. Leia `references/voz-e-fluidez.md` antes de redigir (em peça curta, §2, §4 e §7 bastam); ela traz os mecanismos, os tiques a evitar e exemplos de antes e depois em cinco registros.
+- **Rascunho falado.** Com a ordem do argumento na mão (§4), não preencha caixas: ponha quem fala na frente de quem ouve e escreva o que ele diria, do começo ao fim, sem títulos, listas ou negrito. O ouvinte interrompe ("como assim?", "mas eu já tentei isso", "tá, e quanto custa?"), e cada interrupção previsível vira a frase seguinte. Só depois formate: título onde a fala muda de assunto, lista onde a pessoa contaria nos dedos, tabela onde ela mostraria um papel. Edite como quem limpa uma transcrição: sai a hesitação e a volta que não acrescenta; ficam os conectivos, as retomadas e as perguntas.
+- **Uma frase puxa a outra.** A frase retoma a anterior ("essa manhã custa…"), começa pelo conectivo da conversa ("E", "Mas", "Só que", "Aí", "Então", "Porque"), responde à pergunta que o leitor faria, guarda a causa dentro de si ("…só que a dor volta, porque ele não mexe no que faz ela aparecer") ou conta o que aconteceu depois. Teste do embaralhamento: se dá para trocar a ordem das frases de um parágrafo sem ninguém notar, elas estão soltas.
+- **Ritmo de fala.** A frase comprida corre enquanto a ideia anda; a curta pousa depois. Frases curtas em série, fragmentos ("Sem planilha. Sem ligação.") e frase de efeito fechando o parágrafo ficam para um ou dois picos da peça. O parágrafo quebra onde quem fala respiraria, e os tamanhos variam.
+- **Marcas de gente, todas verdadeiras.** Posição ("vou ser franca: para quem fatura menos que isso, não compensa"), concessão ("e faz sentido, numa crise o que você quer é alívio"), o detalhe que só quem atende conhece, a dúvida honesta. Vêm do briefing; o que falta vira placeholder.
+- **Sem os tiques de texto montado:** o contraste de efeito ("Não é X. É Y."), a tríade automática, a pergunta de palco com resposta de uma palavra ("O resultado? Agenda cheia."), os dois-pontos de revelação, o travessão dramático, a mesma moldura em itens seguidos (quatro passos terminando em "Por isso você…"), todas as seções com a mesma planta. E sem o erro oposto, a oralidade de fantasia ("Olha,", "Sabe aquele…?", "né?" a cada parágrafo, gíria que não é do público).
+- **Fluido não é informal nem comprido.** Um texto para diretor financeiro ou de escritório de advocacia continua sóbrio e continua ligado. E fala boa não enrola: pigarro e repetição sem ângulo novo saem.
 
 **Abertura** — uma ideia só; as primeiras palavras carregam o ponto (o benefício, o número, o fato), nunca "Conheça", "Descubra" ou "A solução que…". Prefira palavras concretas, que dá para ver ("planilha", "WhatsApp às 23h"), a abstratas ("gestão", "eficiência"). Teste: você leria (ou assistiria) o resto se não tivesse escrito isto?
 - **Resposta primeiro ou escorregador?** Quando o leitor chega com uma pergunta (busca, FAQ, e-mail de quem pediu informação), a resposta vem logo no começo. Quando ele chega frio (advertorial, VSL, lead de história), a abertura prende e a frase seguinte puxa a outra. Os guias de formato dizem qual vale em cada peça.
@@ -201,18 +219,19 @@ Nos bullets, use o formato que vende cada tipo de produto:
 
 **Fechamento** — o pedido final traz o resumo da oferta em 1 a 3 linhas (o que recebe, preço, garantia), o pedido explícito da ação e a promessa da abertura retomada quase com as mesmas palavras, agora "provada". O texto do botão ou do pedido descreve o que acontece e o que ele ganha ("Agendar minha avaliação gratuita", "Responda 'quero' que eu te mando o diagnóstico"), não "Enviar" ou "Saiba mais".
 
-**Transições** — subtítulos e frases-ponte mantêm o embalo ("Veja como funciona", "Mas isso é só o começo"). Termine blocos com uma pergunta que o próximo responde. A passagem do problema para o produto precisa acontecer sem solavanco. Dentro do texto corrido, a primeira frase de cada bloco é curta e só precisa fazer ler a segunda. Onde o texto desacelera, feche o parágrafo com uma semente de curiosidade ("Explico.", "Mas não parei aí.") e pague a promessa no bloco seguinte; com moderação, e nunca no lugar do ponto que o título do bloco precisa dizer.
+**Transições** — a última linha de um bloco entrega e a primeira do seguinte recebe, mesmo com um título no meio: ela retoma uma palavra, responde à pergunta que ficou ou tira a consequência. A passagem do problema para o produto precisa acontecer sem solavanco. Teste sem títulos: apagando títulos, rótulos e negritos, o texto corrido ainda se lê como uma fala contínua? Onde o texto desacelera, deixe a frase aberta para a próxima (uma semente de curiosidade) e pague logo adiante; prefira a ponte que só cabe naquele texto à fórmula pronta ("Explico.", "Mas isso é só o começo."), que no máximo aparece uma vez, e nunca no lugar do ponto que o título do bloco precisa dizer.
 
-**Densidade**:
-- cada bloco começa pelo fato mais importante, e a segunda frase diz por que ele importa para o leitor;
-- títulos e subtítulos dizem o ponto, não o nome do bloco ("Três passos, e o primeiro leva 2 minutos", não "Nossa metodologia");
-- parágrafos de até 3 frases na tela (o guia do formato ajusta: artigo e carta de vendas toleram um pouco mais; WhatsApp, bem menos);
-- três ou mais itens viram bullets;
-- negrito só no que precisa sobreviver à leitura em diagonal.
+**Densidade e formatação** — a peça tem duas camadas. A **que se varre** (títulos, subtítulos, botões, negritos, tabelas, listas de consulta, FAQ) segue a brevidade. A **que se lê** (o texto corrido) segue a voz.
+- títulos e subtítulos dizem o ponto, não o nome do bloco ("Três passos, e o primeiro leva 2 minutos", não "Nossa metodologia"), e soam como a frase que a pessoa diria para mudar de assunto;
+- quem chega com uma pergunta recebe a resposta na primeira frase do bloco, e o porquê em seguida; no texto corrido de venda, a primeira frase continua a conversa de onde o bloco anterior a deixou, porque o ponto já está no título;
+- nada de paredão: meça o parágrafo pelo espaço que ocupa na tela, não pelo número de frases. No celular cabem umas 8 palavras por linha, então o parágrafo de página fica em geral abaixo de 50 palavras (seis linhas) e não passa de 60; quando passar, quebre no ponto em que quem fala respiraria, que quase sempre existe. O guia do formato ajusta (WhatsApp e slide, bem menos; artigo e carta de vendas, um pouco mais). Varie os tamanhos;
+- **lista para consulta, texto para raciocínio:** o que está incluso, passos, requisitos e especificações viram bullets ou tabela; identificação, história, explicação do mecanismo, resposta a objeção e razão da oferta ficam em texto corrido, porque é nos "porque" e nos "mas" que o leitor acredita. Teste: se os itens podem trocar de ordem, é lista; se um leva ao outro, é texto;
+- as seções não têm todas a mesma planta: o conteúdo decide se o bloco é narrativa, tabela, passos ou uma frase e um botão;
+- negrito só no que precisa sobreviver à leitura em diagonal, nunca abrindo cada parágrafo.
 
-O tamanho da peça continua decidido pelo diagnóstico; a densidade decide quanto cada bloco gasta. Tabela de palavras fracas × fortes em português e leituras erradas a evitar em `references/brevidade.md` (§7 e §13).
+O tamanho da peça continua decidido pelo diagnóstico; a densidade decide quanto cada bloco gasta. Tabela de palavras fracas × fortes em português e leituras erradas a evitar em `references/brevidade.md` (§7 e §13); onde brevidade e voz divergem, `references/voz-e-fluidez.md` (§13).
 
-**Tom** — para públicos céticos e sofisticados (B2B, profissionais liberais, alta renda), menos adjetivos e superlativos e mais fatos: a subestimação convence. Palavras que dizem ao leitor o que sentir precisam ser invisíveis; se ele as nota, o texto soa piegas. Leia em voz alta para checar o ritmo; roteiro de vídeo e VSL são lidos em voz alta por definição.
+**Tom** — para públicos céticos e sofisticados (B2B, profissionais liberais, alta renda), menos adjetivos e superlativos e mais fatos: a subestimação convence. Subestimar é tirar o adjetivo, não o conectivo: o texto sóbrio continua sendo alguém explicando. Palavras que dizem ao leitor o que sentir precisam ser invisíveis; se ele as nota, o texto soa piegas. Leia em voz alta para checar o ritmo; roteiro de vídeo e VSL são lidos em voz alta por definição.
 
 ### 6. Revisão
 
@@ -221,7 +240,8 @@ Antes de entregar, confira o checklist do guia do formato e estes itens comuns:
 - [ ] A abertura tem uma ideia, uma emoção, uma ação? Passa no teste "isto me faz querer ler (ou assistir) o resto?" e tira 3–4 em pelo menos três dos 4 U's?
 - [ ] O ponto de partida combina com o nível de consciência e o estágio de sofisticação diagnosticados?
 - [ ] O ângulo (fuga da dor × busca do prazer) segue o diagnóstico do começo ao fim? A dor está nas palavras do leitor, vale para todo o público que vai lê-la, sem exagero nem medo gratuito, e a peça termina na saída, não no problema?
-- [ ] A primeira frase depois da abertura continua o gancho em vez de mudar de assunto? No texto corrido, cada frase puxa a próxima?
+- [ ] A primeira frase depois da abertura continua o gancho em vez de mudar de assunto? No texto corrido, cada frase puxa a próxima, e a peça passa no teste do embaralhamento e no teste sem títulos?
+- [ ] Dá para dizer quem fala, com quem e em que registro, do começo ao fim? O que é raciocínio ou história está em texto corrido, e só o que é consulta está em lista?
 - [ ] Toda objeção previsível (preço, suporte, instalação, dados físicos, prazo, devolução) tem resposta nesta peça ou na seguinte?
 - [ ] Cada promessa grande tem prova logo depois? Toda prova vem do briefing ou é um placeholder?
 - [ ] Cada bloco se liga à grande ideia (fio de ouro)? Algum só repete outro? Corte.
@@ -229,7 +249,8 @@ Antes de entregar, confira o checklist do guia do formato e estes itens comuns:
 - [ ] O pedido final diz o que acontece, resume a oferta e retoma a promessa da abertura?
 - [ ] **Caminho de quem só passa os olhos:** lendo só o título (ou o assunto, ou o texto na tela), os subtítulos, os negritos e os botões, dá para entender a promessa, a prova e a ação?
 - [ ] Sobrou "marketês" ou pigarro (ver abaixo)? Dá para trocar um adjetivo por um número ou uma cena? Sobrou voz passiva, palavra difícil ou "pode/talvez" sem necessidade?
-- [ ] **Passe de corte:** tente tirar 30% das palavras de cada bloco. Depois confira se o texto continua **preciso** (nenhuma prova, número ou ressalva legal sumiu), **coeso** (as pontes entre blocos continuam lá) e **humano** (se ficou seco, devolva a voz).
+- [ ] **Passe de corte:** tire o que não trabalha (pigarro, explicação do óbvio, repetição sem ângulo novo, adjetivo que não é fato). Num rascunho despejado isso passa de 30% das palavras; num texto já enxuto, é menos, e forçar o número produz telegrama. Conectivos, retomadas e pontes não entram na conta. Depois confira se o texto continua **preciso** (nenhuma prova, número ou ressalva legal sumiu) e **coeso** (as pontes entre blocos continuam lá).
+- [ ] **Passe de voz (o último, sempre depois do corte):** leia a peça como quem vai dizê-la em voz alta à pessoa para quem escreveu. Reescreva onde tropeçaria (a palavra que não diria, a frase que só existe escrita) e onde há um salto. Procure os tiques de texto montado e a moldura que se repete; olhe a primeira palavra de cada parágrafo e o tamanho das frases em sequência. Roteiro em `references/voz-e-fluidez.md` (§10).
 - [ ] Alguma afirmação pode violar o CDC, o CONAR, a LGPD, a política da plataforma ou o conselho profissional do setor?
 
 ## Formato de entrega
@@ -250,6 +271,7 @@ Use esta estrutura, nesta ordem. O guia do formato diz como a peça em si é apr
 
 **Grande ideia:** uma frase.
 **Lead:** tipo escolhido — por que (1–2 frases).
+**Voz:** quem fala, com quem e em que registro (1 linha).
 **Estrutura:** formato, tamanho e onde fica o pedido.
 
 ## [A peça, no formato do guia]
@@ -273,22 +295,26 @@ Use esta estrutura, nesta ordem. O guia do formato diz como a peça em si é apr
 
 Quando o usuário colar o texto atual:
 
-1. **Diagnóstico da peça atual** (curto, antes do diagnóstico estratégico): o que ela tenta dizer, onde viola os princípios (várias ideias na abertura, começa pelo produto para um público frio, marketês, pedido vago, prova ausente ou mal posicionada, oferta sem razão, ponto escondido atrás de pigarro, parágrafos-paredão, títulos que são só rótulos). Cite trechos.
+1. **Diagnóstico da peça atual** (curto, antes do diagnóstico estratégico): o que ela tenta dizer, onde viola os princípios (várias ideias na abertura, começa pelo produto para um público frio, marketês, pedido vago, prova ausente ou mal posicionada, oferta sem razão, ponto escondido atrás de pigarro, parágrafos-paredão, títulos que são só rótulos, texto montado: frases soltas do mesmo tamanho, argumento em bullets, contraste de efeito, a mesma moldura repetida). Cite trechos.
 2. Siga o processo normal e entregue a peça nova completa no formato acima.
 3. No fim, **"O que mudou e por quê"**: 3 a 6 itens, cada um ligando a mudança ao princípio.
 4. Se o usuário pedir mudanças depois, faça as que melhoram a peça e as neutras. Nas que a enfraquecem, explique uma vez por quê e, se ele mantiver, acate.
 
 Aproveite tudo o que o texto antigo tem de verdadeiro e específico (anos de mercado, número de clientes, especialização); isso é matéria-prima, não algo a descartar.
 
+**Quando a queixa é de voz** ("está robotizado", "frio", "com cara de IA", "não parece gente"): o problema costuma estar na ligação entre as frases, não no argumento. Mantenha os fatos, a oferta e a ordem que funcionam; refaça o texto corrido pelo rascunho falado (§5) e aponte, no diagnóstico da peça atual, os tiques que encontrou (`references/voz-e-fluidez.md` §7). Não troque robô por caricatura: gíria e "né?" não são voz.
+
 ## Português do Brasil: tom e armadilhas
 
-Escreva como um redator brasileiro experiente, não como tradução. Use "você", frases curtas, verbos concretos, números no formato brasileiro (R$ 1.400, 20%). Pedidos em primeira pessoa funcionam bem ("Quero minha avaliação").
+Escreva como um redator brasileiro experiente, não como tradução. Use "você", verbos concretos, frases de tamanhos variados que se emendam como na fala, números no formato brasileiro (R$ 1.400, 20%). Pedidos em primeira pessoa funcionam bem ("Quero minha avaliação").
 
 **Escreva como fala.** O teste é: você diria isso a um cliente no balcão ou no WhatsApp?
 - **Voz ativa, na ordem "quem — faz — o quê":** "O fisioterapeuta avalia você por 50 minutos", não "É realizada uma avaliação completa".
 - **A palavra comum no lugar da difícil:** usar, fazer, comprar, começar, pedir; não utilizar, realizar, adquirir, iniciar, solicitar.
 - **De uma pessoa para uma pessoa:** "eu" e "minha equipe" no lugar de "Nós da X". Em marca pessoal (serviço, infoproduto, negócio local), um bloco assinado pelo fundador, com foto; e-mail e prospecção saem sempre de uma pessoa, com nome.
 - **O verbo no lugar da nominalização:** "instalar o sistema", não "realizar a implementação do sistema".
+- **O conectivo da conversa no lugar do de ofício:** "e", "mas", "só que", "aí", "então", "porque", "por isso"; não "ademais", "entretanto", "portanto", "dessa forma", "visto que". Frase pode começar com "E" ou "Mas".
+- **O registro do público:** "pra", "tá" e "a gente" onde ele fala assim (consumidor, negócio local, WhatsApp); "para", "está" e "nós" onde o deslize custa credibilidade (B2B formal, setor regulado). Em nenhum dos dois, gíria emprestada ou erro de gramática.
 - **O que acontece de fato no lugar do vago:** "pode ajudar a reduzir" não diz nada. "Em média, −38% em 60 dias" ou "você sai com um plano por escrito" dizem. Em setor regulado, não troque o "pode" por uma garantia; troque pelo processo concreto ou pela ressalva real do briefing.
 
 **Corte o marketês** — palavras que o leitor já aprendeu a ignorar e que fazem qualquer empresa soar igual: "inovador(a)", "revolucionário", "soluções completas", "excelência", "compromisso com a qualidade", "alavancar", "potencializar", "agregar valor", "expertise", "atendimento humanizado", "transforme sua vida", "o melhor do mercado", "incrível", "oportunidade única", "Bem-vindo(a) ao site", "Entre em contato", "clique aqui". Troque cada uma por um fato, um número ou uma cena.
@@ -328,6 +354,7 @@ python3 scripts/kb_lookup.py --grep "subject line"     # busca literal no materi
 | Arquivo | Leia quando… |
 |---|---|
 | `formatos/*.md` | sempre: o guia da peça pedida (tabela no início deste arquivo). |
+| `references/voz-e-fluidez.md` | for redigir ou revisar qualquer texto corrido, em qualquer peça: quem fala e em que registro (§2), o rascunho falado (§3), como uma frase puxa a outra (§4), o ritmo (§5), as marcas de gente (§6), os tiques de texto montado (§7), antes e depois em cinco registros (§8), a fala e a página (§9), o passe de voz (§10) e onde a voz para (§11). Leia também quando o usuário disser que um texto está robotizado, frio ou com cara de IA. |
 | `references/aberturas.md` | for escrever a abertura: a seção do tipo de lead escolhido (§6.1–6.6), as regras que valem para qualquer lead (§7) e como cada lead vira abertura em cada formato (§11). |
 | `references/estrategia.md` | for diagnosticar desejo, consciência e sofisticação com mais profundidade e achar o ponto de entrada (§2–8), gerar variações de abertura (§9, as técnicas de verbalização) ou pesquisar o que o mercado não diz (§11). |
 | `references/corpo-do-texto.md` | for ordenar os blocos e ganhar concordância (§2–4), escrever benefícios (§5, intensificação), escolher personagens e cenas (§6, identificação), explicar como funciona (§7), desarmar objeções (§8), apresentar o preço (§9), comparar com o jeito atual (§10), posicionar a prova (§11), acertar o ritmo das frases (§12), camuflar a venda num formato editorial (§13), fechar com catálogo e garantia (§14) ou manter a grande ideia numa sequência de peças (§15). |
@@ -338,4 +365,4 @@ python3 scripts/kb_lookup.py --grep "subject line"     # busca literal no materi
 | `references/fundamentos.md` | for completar o briefing e conhecer o comprador (§2–3, inclusive crenças, desejos e sentimentos), achar o argumento e a promessa secundária (§4), ordenar o argumento (§5), conferir o tamanho (§6), pontuar aberturas (§7, os 4 U's), escrever a carta ou o e-mail de uma pessoa para outra (§8), provar (§10), ofertar e pedir a ação (§11) ou revisar com o checklist (§18). |
 | `references/meios-digitais.md` | for escrever site e loja (§4), SEO (§5), landing page (§6), e-mail e sequências (§7), anúncios online (§8), vídeo (§9), conteúdo, white paper e isca (§10), dividir o argumento entre a peça de entrada e a página (§3) ou lidar com as revisões do cliente (§12). |
 
-Para uma peça curta, este arquivo, o guia do formato e a seção do lead em `aberturas.md` costumam bastar. Para uma peça longa (página de vendas, VSL, advertorial), leia também as referências das etapas em que estiver, começando por `estrategia.md` e `aberturas.md`.
+Para uma peça curta, este arquivo, o guia do formato, a seção do lead em `aberturas.md` e `voz-e-fluidez.md` (§2, §4 e §7) costumam bastar. Para uma peça longa (página de vendas, VSL, advertorial), leia `voz-e-fluidez.md` inteira e também as referências das etapas em que estiver, começando por `estrategia.md` e `aberturas.md`.

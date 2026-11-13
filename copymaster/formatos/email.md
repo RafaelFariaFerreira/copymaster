@@ -88,6 +88,7 @@ E-mails transacionais (recibo, senha, rastreio) ficam fora: podem levar uma linh
 
 ## 5. Regras de redação próprias do formato
 
+- **Uma carta, não um boletim.** O e-mail é o formato em que a voz mais pesa: uma pessoa escrevendo para outra, do assunto ao P.S., com uma ideia que anda de uma frase para a seguinte. Escreva como quem senta para contar uma coisa a um conhecido (SKILL.md §5, "Voz e fluxo"; `references/voz-e-fluidez.md`, §8, exemplo D). Frases secas em fila, três bullets e um botão é a cara do disparo automático, e é assim que ele é lido. Lista só para o que é consulta (o que está incluso, datas); a razão da oferta e a resposta à objeção vão em texto corrido. A newsletter de itens segue a forma própria dela (§4).
 - **Remetente: uma pessoa, sempre o mesmo.** O leitor abre primeiro o que vem de quem ele reconhece. Há quatro opções (você, sua empresa se for conhecida, o dono da lista, uma "equipe"); a combinação mais segura é nome + marca (ex.: "Ana, da Clínica Vida") *(prática de mercado)*. Trocar o remetente a cada campanha desperdiça o reconhecimento.
 - **Assunto: o ponto em cerca de 6 palavras.** É o "envelope" e a headline ao mesmo tempo. Cerca de 6 palavras é o ideal, porque cabe inteiro no celular; em português, como regra de bolso, uns 40 caracteres. As primeiras palavras carregam o ponto; os 4 U's (SKILL.md §5) valem aqui.
   - Dos três tipos de chamada de envelope, a gabolice é a pior, a promessa de benefício funciona e a promessa de algo que o espera lá dentro funciona melhor. ex.: "Sua planilha de fluxo de caixa chegou" > "A melhor planilha do Brasil".
@@ -163,7 +164,7 @@ Texto pronto para colar, com [LINK] onde entra o link.
 
 ## 9. Checklist
 
-- [ ] O remetente é uma pessoa que o leitor reconhece, o mesmo das últimas campanhas?
+- [ ] O remetente é uma pessoa que o leitor reconhece, o mesmo das últimas campanhas? O corpo soa escrito por essa pessoa, com as frases se puxando, e não como um disparo de frases soltas e bullets?
 - [ ] O assunto diz o ponto nas primeiras palavras, em cerca de 6, e é verdadeiro (sem "Re:", "Fwd:", falso pedido ou falsa urgência)?
 - [ ] O pré-cabeçalho completa o assunto sem repeti-lo?
 - [ ] Quem lê só o assunto, o pré-cabeçalho e o primeiro parágrafo sabe a oferta e onde clicar?
@@ -176,5 +177,5 @@ Texto pronto para colar, com [LINK] onde entra o link.
 
 ## Referências da skill
 
-- **Referências:** `references/meios-digitais.md` §3 (o que fica no e-mail e o que fica na página), §7 (regras de e-mail, série de conversão, newsletter, entregabilidade) e §14 (datado); `references/fundamentos.md` §7 (assunto e 4 U's), §8 (carta pessoal e P.S.) e §11 (grátis × sem risco); `references/brevidade.md` §3, §4 e §9; `references/leitura-e-gatilhos.md` §10; `references/aplicacao-por-meio.md` §8 (e-mail); `references/aberturas.md` §2, §3 e §11; `references/estrategia.md` §5; `references/ofertas.md` §2.
+- **Referências:** `references/voz-e-fluidez.md` (§2–8); `references/meios-digitais.md` §3 (o que fica no e-mail e o que fica na página), §7 (regras de e-mail, série de conversão, newsletter, entregabilidade) e §14 (datado); `references/fundamentos.md` §7 (assunto e 4 U's), §8 (carta pessoal e P.S.) e §11 (grátis × sem risco); `references/brevidade.md` §3, §4 e §9; `references/leitura-e-gatilhos.md` §10; `references/aplicacao-por-meio.md` §8 (e-mail); `references/aberturas.md` §2, §3 e §11; `references/estrategia.md` §5; `references/ofertas.md` §2.
 - **Prática de mercado**: pré-cabeçalho, abandono de carrinho, reengajamento, proteção de privacidade do Apple Mail, requisitos de Gmail e Yahoo; LGPD (arts. 7º, 8º e 9º), CDC (arts. 37 e 49), CAPEM.

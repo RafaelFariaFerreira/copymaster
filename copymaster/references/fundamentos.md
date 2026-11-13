@@ -308,12 +308,13 @@ Texto fácil vende mais. O que confunde: interesse emprestado, frase longa, clic
 ### 9.4 Tom de conversa
 - A peça substitui um vendedor, e vendedor conversa. Texto simples faz do redator um amigo; pomposo, um chato.
 - **Teste:** você diria isto ao leitor, cara a cara? Se entregasse o material em mãos, o que diria? Escreva isso.
+- Conversa é mais do que palavra simples: é uma frase puxando a outra, como numa fala. O método (rascunho falado, ligação entre as frases, registro por público, tiques a evitar) está em `voz-e-fluidez.md`.
 - **Em português:** pronomes (eu, você); expressões do dia a dia; formas faladas nos canais informais ("pra" no WhatsApp, "me avisa" no lugar de "avise-me"). Quando naturalidade e gramática escolar brigarem, prefira a naturalidade, exceto em B2B formal, setor regulado e documento, onde o deslize custa credibilidade.
 - **Linguagem inclusiva sem atrito:** prefira formas sem marca de gênero ("quem contrata", "a equipe", "as pessoas"), plurais e reescritas; evite barras e parênteses ("o(a) cliente"); precisando de uma pessoa de exemplo, dê-lhe um nome.
 
 ### 9.5 Ritmo e ênfase
 - Comece frases com "E" ou "Mas" para emendar ideias; troque conectivos solenes ("ademais", "outrossim", "não obstante") por "e", "mas", "só que". Prefira a ordem falada à de ofício ("a planilha que você usa", não "a planilha a qual é por você utilizada").
-- **Fragmentos** dão drama e ritmo *(ilustrativo: "Sem fila. Sem papel.")*. **Parágrafo de uma frase**, de vez em quando, quebra o embalo monótono e acorda o leitor.
+- **Fragmentos** dão drama e ritmo *(ilustrativo: "Sem fila. Sem papel.")*, uma ou duas vezes na peça; em série, viram tique (`voz-e-fluidez.md` §7). **Parágrafo de uma frase**, de vez em quando, quebra o embalo monótono e acorda o leitor.
 - **Ênfase gráfica com parcimônia** (negrito, itálico, caixa de destaque, citação em destaque, cor, P.S.): se tudo está destacado, nada se destaca; poucas palavras destacadas são lidas por quase todos, inclusive por quem só passa os olhos. Na web, evite sublinhado (parece link).
 
 ### 9.6 Bullets
@@ -510,7 +511,7 @@ Texto fácil vende mais. O que confunde: interesse emprestado, frase longa, clic
 | Palavras batidas | Use "como", "descubra", "novo", "fácil" porque vendem | SKILL.md: as primeiras palavras carregam o ponto, nunca "Conheça" ou "Descubra" | O ponto vem primeiro; essas palavras entram depois dele, ou quando são o próprio ponto ("Como…" num título de solução) |
 | Marca no título | Promessa e marca no título se a maioria não lê o corpo | Leads indiretos adiam o produto para público frio | Marca conhecida ou leitor consciente: nome no título ou subtítulo; público frio: promessa primeiro |
 | Formulário no topo | Sugere o formulário de resposta no alto da landing page | Skill: pedido principal depois da prova, salvo para o mais consciente | Siga a tabela de leads; no topo, no máximo um botão para quem já decidiu |
-| Texto maciço e enfeites | Página cheia é lida se a tipografia for limpa; segunda cor e enfeites aumentam a resposta no consumo de massa | `brevidade.md` e o celular: parágrafos de até 3 frases, negrito só no essencial | Na tela, `brevidade.md` vence; desta referência fica não trocar informação por decoração; enfeite nunca para executivos e alta renda |
+| Texto maciço e enfeites | Página cheia é lida se a tipografia for limpa; segunda cor e enfeites aumentam a resposta no consumo de massa | `brevidade.md` e o celular: parágrafos curtos (medidos em linhas na tela), negrito só no essencial | Na tela, `brevidade.md` vence; desta referência fica não trocar informação por decoração; enfeite nunca para executivos e alta renda |
 | Urgência | Registra a "oferta prorrogada" | `ofertas.md`: razão do porquê; skill e CDC: escassez real | Só prazo real, com motivo |
 | Atrito | Barreiras qualificam mas derrubam o volume; prefere o grátis | `ofertas.md`: atrito dosado pela capacidade de atendimento | Concordam; `ofertas.md` decide a dose |
 | Lógica falsa | Registra a tática | CDC e a ética da skill | Só a comparação honesta (§17) |

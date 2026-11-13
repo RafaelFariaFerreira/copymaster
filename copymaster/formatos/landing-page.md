@@ -17,10 +17,10 @@ Página com **um único próximo passo**: comprar, agendar, cadastrar, aplicar, 
 **Sequência-mestre** (consciente do problema ou da solução):
 
 1. **Hero** — eyebrow, H1, subheadline, CTA, prova imediata.
-2. **Identificação** — o visitante se reconhece: situação, sintomas e frustrações nas palavras dele (3–6 linhas, não uma lista de dores).
-3. **Por que o que ele já tentou não resolveu** — as alternativas e o defeito estrutural de cada uma, sempre com a solução à vista (concentração).
+2. **Identificação** — o visitante se reconhece: situação, sintomas e frustrações nas palavras dele, contadas como ele as vive, em texto corrido (3–6 linhas, não uma lista de dores).
+3. **Por que o que ele já tentou não resolveu** — as alternativas e o defeito estrutural de cada uma, sempre com a solução à vista (concentração). Conte o ciclo que ele viveu, na ordem em que viveu; três bullets paralelos, um por alternativa, transformam a explicação em alegações.
 4. **A virada** — existe outro jeito; apresente o mecanismo pelo nome.
-5. **Como funciona** — 3 a 4 passos, cada um com "e por isso você…".
+5. **Como funciona** — 3 a 4 passos, cada um partindo do anterior e dizendo, do seu jeito, o que o visitante ganha ali. A mesma moldura fechando todos os passos ("Por isso você…") soa texto de fábrica.
 6. **Benefícios** — o mesmo desejo dominante visto por ângulos novos (a primeira semana, ao longo dos meses, teste você mesmo, o que muda na rotina).
 7. **Prova** — casos, depoimentos e números, cada um escolhido pela objeção que responde.
 8. **Oferta** — o que ele recebe (catálogo, uma linha por item), preço ancorado num padrão mais caro, razão do preço/do grátis/do prazo.
@@ -43,15 +43,27 @@ Página com **um único próximo passo**: comprar, agendar, cadastrar, aplicar, 
 - **Prova imediata**: credibilidade antes de rolar — um número, logos de clientes, um selo ou um depoimento de uma linha, só se for real. Se a página fala na voz de alguém, diga quem é e por que entende do assunto.
 - **Uma tela de celular**: eyebrow, H1, subheadline, botão e microcopy cabem na primeira tela do celular. Se não couberem, corte palavras antes de diminuir a fonte.
 
-## 5. Cada seção segue a mesma estrutura
+## 5. A página é uma conversa cortada em seções
 
-- **Rótulo** (opcional): uma linha curta acima do título que situa quem está escaneando ("Como funciona", "Em números", "Para quem é").
-- **Título**: diz o ponto da seção, não o nome dela ("Três passos, e o primeiro leva 2 minutos", não "Nossa metodologia").
-- **Primeira frase**: o fato mais importante da seção.
-- **Segunda frase**: por que esse fato importa para ele.
-- **O resto**: detalhe para quem quiser ir mais fundo, em bullets, acordeão ou link.
+Quem fala (a linha **Voz** do diagnóstico) atravessa a página inteira. As seções organizam essa fala para quem passa os olhos; não a transformam numa pilha de cartões (SKILL.md §5, "Voz e fluxo"; `references/voz-e-fluidez.md` §9).
 
-Uma página longa é uma sequência de blocos curtos, não um conjunto de blocos longos.
+- **Rótulo** (opcional, e não em toda seção): uma linha curta acima do título que situa quem está escaneando ("Como funciona", "Em números", "Para quem é").
+- **Título**: diz o ponto da seção, não o nome dela ("Três passos, e o primeiro leva 2 minutos", não "Nossa metodologia"), e soa como a frase com que a pessoa mudaria de assunto. Lidos em sequência, os títulos seguem o fio de um raciocínio.
+- **Texto da seção**: continua a conversa de onde a seção anterior parou. O ponto já está no título, então a primeira frase não o repete: ela recebe a pergunta que ficou no ar.
+- **A forma segue o conteúdo**, e por isso as seções não têm todas a mesma planta:
+
+| Seção | Forma |
+|---|---|
+| Identificação, por que não resolveu, a virada, razão da oferta, garantia | texto corrido: de 2 a 4 parágrafos curtos, um puxando o outro |
+| Como funciona | passos numerados, contados em sequência |
+| Comparação | tabela, com uma frase que a prepara e outra que tira a conclusão |
+| Benefícios | cenas (a primeira semana, o que muda na segunda-feira), não uma grade de ícones com três palavras |
+| O que ele recebe, para quem é | lista de consulta |
+| Prova | o número, o caso ou o depoimento, com a frase que diz que dúvida ele responde |
+| FAQ | a resposta primeiro, na voz de quem atende |
+
+- **Passagem entre seções:** a última linha de uma entrega, a primeira da seguinte recebe. Teste sem títulos: apagando títulos, rótulos e negritos, o texto ainda se lê como uma fala contínua?
+- **Tamanho dos blocos:** uma página longa é uma conversa só, cortada em blocos curtos. Parágrafos de tamanhos variados, em geral abaixo de 50 palavras (seis linhas no celular) e nunca acima de 60; entre duas quebras visuais (título, lista, imagem, botão), até umas 150 a 200 palavras de texto corrido.
 
 ## 6. Regras próprias da página
 
@@ -106,7 +118,8 @@ As variações para teste são de H1 + subheadline.
 ## 10. Checklist da página
 
 - [ ] Eyebrow, H1, subheadline, botão e microcopy cabem numa tela de celular?
-- [ ] Cada título de seção diz um ponto, já nas primeiras palavras, e não só o nome da seção? Algum parágrafo passa de 3 frases ou esconde uma lista? Cada resposta do FAQ começa pela resposta?
+- [ ] Cada título de seção diz um ponto, já nas primeiras palavras, e não só o nome da seção? Algum parágrafo vira paredão no celular? Cada resposta do FAQ começa pela resposta?
+- [ ] A página soa como uma pessoa falando do hero ao CTA final? As seções têm formas diferentes entre si, o argumento está em texto corrido (não em bullets) e o texto se lê inteiro sem os títulos?
 - [ ] A página está sem menu e sem links de saída? Toda imagem tem uma legenda que vende? Especificações e cálculos ficam fora do fluxo de venda?
 - [ ] O gancho, a oferta e o preço da peça de origem (anúncio, e-mail, vídeo) se repetem no hero?
 - [ ] Há botão depois dos blocos de prova e no fim, e o preço é fácil de achar?
